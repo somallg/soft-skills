@@ -65,7 +65,57 @@
 
 
 # Chương 2: Công thức thành công tuyệt đỉnh
-* Ba cách con người đối diện với thất bại
+> Thành công là một người thấy tồi. Nó khiến những người thông mình cho rằng họ không thể thất bại. Bill Gates
+
+* Những người thành công đều làm theo một số bước nhất định để đạt được những gì họ muốn. **Tôi gọi tập hợp những bước này là Công thức Thành Công Tuyệt Đỉnh**
+* 2 yếu tố nền tảng quyết định bạn có làm đúng các bước
+	* Hệ thống niềm tin
+	* Những giá trị sống của bạn
+
+## 2.1 Yếu tố nền tảng thứ nhất: Hệ thống niềm tin mạnh mẽ
+* Niềm tin là công tắc đóng mở khả năng tư duy và tiềm năng nội tại
+
+## 2.2 Yếu tố nền tảng thứ hai: Giá trị sống là động lực thúc đẩy bạn
+* Là những thứ bạn xem trọng trong cuộc sống như thành công, tự do, an toàn, tình cảm, hạnh phúc
+* Cho dù những giá trị sống của bạn là gì, chúng cũng cần phải tương ứng với những mơ ước của bạn
+
+## 2.3 Bước 1. Đặt ra mục tiêu rõ ràng
+* Tất cả mọi thành công đều là kết quả của những mục tiêu rõ ràng đã được xác định từ trước đó rất lâu, cộng với sự phấn đấu không ngừng nghỉ trong một thời gian dài
+
+## 2.4 Bước 2. Phát triển một chiến lược hợp lý
+* Mục tiêu => Chiến lược
+* Một trong những chiến lược để thành công là học hỏi từ những người thành công, học những chiến lược mà họ dùng
+
+## 2.5 Bước 3. Hành động kiên định
+* Mục tiêu => Chiến lược => Hành động
+* Nếu bạn không hài lòng với cuộc sống luẩn quẩn của mình, hãy LÀM một cái gì đó để thay đổi nó
+* Không bao giờ ngừng học hỏi (một dạng hành động kiên định)
+* **Kỹ năng làm chủ bản thân** khả năng định hướng và điểu khiển trạng thái cảm xúc của mình để dẫn đến những hành động tích cực và vươn tới những thành công cao nhất
+
+## 2.6 Bước 4. Biến thất bại thành bài học kinh nghiệm
+* Mục tiêu => Chiến lược => Hành động => Thành công => Mục tiêu
+	* Hành động => Thất bại
+* Những người thành công nhất cũng luôn là những người gặp nhiều thất bại hơn cả
+
+## 2.7 Ba cách con người phản ứng trước thất bại
+1. **Bào chữa, biện minh, đổ lỗi và nhanh chóng bỏ cuộc**
+	* Hãy suy nghĩ và viết ra những lần bạn tự biện hộ cho mình, đổ lỗi cho người khác và từ bỏ mục tiêu
+2. **Kiên trì hành động nhưng với cùng một chiến lược không đổi**
+	* Hãy suy nghĩ và viết ra những lần bạn thử làm một điều gì đó nhiều lần nhưng không thay đổi chiến lược, dẫn tới việc bạn cảm thấy bế tắc vì không đạt được điều mình muốn và cuối cùng đã bỏ cuộc
+3. **Liên tục rút kinh nghiệm, linh hoạt thay đổi chiến lược và kiên trì hành động cho tới khi thành công**
+	* Hành động => Bài học kinh nghiệm => Chiến lược mới
+	* Họ quyết tâm làm mọi việc cần thiết trong khuôn khổ pháp lý và đạo đức để thành công
+	* Mỗi lần bạn không đạt được điều mình muốn => **phản hồi** của cuộc sống cho bạn những thông tin cần thiết => **lắng nghe** và phân tích
+
+## 2.8 Công thức thành công tuyệt đỉnh
+1. Xây dựng cho mình một hệ thống niềm tin vững chắc
+2. Xác định những giá trị sống của bản thân
+3. Biết chính xác bạn muốn gì
+4. Phát triển chiến lược phù hợp để đạt được mục tiêu
+5. Hành động một cách quyết tâm và kiên định
+6. Nếu thành công thì bạn có thể đặt mục tiêu mới to lớn hơn, vĩ đại hơn. Nếu chỉ nhận được phản hồi bạn sẽ rút kinh nghiệm và điều chỉnh chiến lược cho tới khi bạn thật sự thành công
+
+## 2.9 Ứng dụng công thức thành công tuyệt đỉnh vào thực tế
 
 # Chương 3: Làm thế nào để đạt được bất cứ điều gì bạn mong muốn
 * Ngưỡng kỳ vọng và ngưỡng chấp nhận của bạn là gì
