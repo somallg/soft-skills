@@ -117,6 +117,29 @@
 
 ## 2.9 Ứng dụng công thức thành công tuyệt đỉnh vào thực tế
 
+## 2.10 Khóa học những mô thức thành công... cũng đi từ thất bại đến thành công
+* Nghiêm túc trong việc ghi nhận "phản hồi" và thay đổi chiến lược
+* Hành động bền bỉ và kiên trì áp dụng Công thức thành công tuyệt đỉnh
+
+## 2.11 Hãy linh hoạt để làm chủ được hoàn cảnh
+* Tính linh hoạt được định nghĩa là khả năng có thể liên tục thay đổi hoặc điều chỉnh chiến luợc khi cần thiết để đạt được mục tiêu mong muốn
+
+## 2.12 Bài tập cuối chương
+* Đã bao giờ bạn thành công nhờ rút kinh nghiệm từ những phản hồi và linh hoạt thay đổi chiến lược chưa? Hay viết ra ít nhất 3 trường hợp. // TODO
+* Có những lĩnh vực nào trong cuộc sống của mình, bạn thấy có thể áp dụng được Công thức thành công tuyệt đỉnh để đạt được những điều bạn luôn mong ước hoặc khoa khát? // TODO
+
+## 2.13 Tổng kết chương
+1. Công thức thành công tuyệt đỉnh
+> ![Công thức thành công tuyệt đỉnh](images/cong_thuc_thanh_cong.png)
+
+2. Có ba cách chúng ta đối mặt với thất bại
+    a. Bào chữa, biện minh, đổ lỗi và nhanh chóng bỏ cuộc.
+    b. Cố gắng nhiều lần với cùng một chiến lược cho dù thất bại, cho tới khi bế tắc và buộc phải bỏ cuộc.
+    c. Nhận phản hồi, rút kinh nghiệm để thay đổi chiến lược, kiên trì hành động cho tới khi có được một kết quả nào đó. Lập lại quá trình này đến khi đạt được mục tiêu mong muốn.
+
+3. Tính linh hoạt là khả năng liên tục thay đổi chiến lược và sẵn sàng làm mọi thứ (trong phạm vi pháp luật và đạo đức) để đạt được kết quả mong muốn.
+
+
 # Chương 3: Làm thế nào để đạt được bất cứ điều gì bạn mong muốn
 * Ngưỡng kỳ vọng và ngưỡng chấp nhận của bạn là gì
 
