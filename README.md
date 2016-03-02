@@ -65,7 +65,7 @@
 
 
 # Chương 2: Công thức thành công tuyệt đỉnh
-> Thành công là một người thấy tồi. Nó khiến những người thông mình cho rằng họ không thể thất bại. Bill Gates
+> "Thành công là một người thấy tồi. Nó khiến những người thông mình cho rằng họ không thể thất bại." - Bill Gates
 
 * Những người thành công đều làm theo một số bước nhất định để đạt được những gì họ muốn. **Tôi gọi tập hợp những bước này là Công thức Thành Công Tuyệt Đỉnh**
 * 2 yếu tố nền tảng quyết định bạn có làm đúng các bước
@@ -130,7 +130,8 @@
 
 ## 2.13 Tổng kết chương
 1. Công thức thành công tuyệt đỉnh
-> ![Công thức thành công tuyệt đỉnh](images/cong_thuc_thanh_cong.png)
+
+![Công thức thành công tuyệt đỉnh](images/cong_thuc_thanh_cong.png)
 
 2. Có ba cách chúng ta đối mặt với thất bại
     a. Bào chữa, biện minh, đổ lỗi và nhanh chóng bỏ cuộc.
@@ -141,7 +142,130 @@
 
 
 # Chương 3: Làm thế nào để đạt được bất cứ điều gì bạn mong muốn
-* Ngưỡng kỳ vọng và ngưỡng chấp nhận của bạn là gì
+> "Không một ai tự thay đổi cho đến khi người ấy cảm thấy buộc phải làm điều đó." - Socrates
+* Khi một mục tiêu chẳng là gì ngoài một mong ước mơ hồ, bạn sẽ thấy mình bị những cám dỗ, vật cản, những thất vọng hay thất bại cầm chân.
+
+| 5% đặc biệt | 95% còn lại | 
+|-------------|-------------|
+| QUYẾT TÂM PHẢI thành công | chỉ ƯỚC, MUỐN, HY VỌNG và THÍCH được thành công |
+| Họ biến nó thành việc BUỘC PHẢI LÀM | Họ chỉ làm khi thấy tiện lợi thoải mái |
+| Họ làm bất cứ điều gì cần làm trong khuôn khổ pháp luật và đạo đức | Họ cứ viện cớ cho việc không làm gì cả |
+
+## 3.1 Khi một mục tiêu trở thành điều BUỘC PHẢI ĐẠT ĐƯỢC... chúng ta sẽ hành động với một tâm thế hoàn toàn khác.
+* Khi một điều gì đó trở thành việc phải làm, bạn sẽ cố gắng hết sức để "lôi" mình ra khỏi "chỗ trú ẩn" thoải mái vốn có, và thay đổi chiến lược của mình liên tục, bất kể bao nhiêu lần, miễn là cần thiết để đạt được thành công.
+* Những người thành công là những người thật sự chứng tỏ được quyết tâm sắt đá của mình
+
+> "Bạn sẽ không bao giờ đạt được bất cứ điều gì trong đời trừ khi bạn biến nó thành việc PHẢI LÀM" - Adam Khoo
+
+## 3.2 Khi bạn đặt mình vào thế bắt buộc phải thành công thì bao giờ bạn cũng sẽ tìm ra cách
+* Ngay khi một mục tiêu trở thành điều BẮT BUỘC PHẢI LÀM, nó lập tức sẽ giúp bạn tận dụng trực tiếp người lực vô hạn trong chính bản thân bạn
+
+## 3.3 Ước muốn của bạn là "Bắt buộc phải đạt được" hay chỉ "Được thì tốt không thì thôi"?
+* Biến mục tiêu thành một thứ bắt buộc phải đạt được bằng mọi cách
+
+## 3.4 Những thành tựu bạn đạt được đều là những điều "bắt buộc" đối với bạn
+* *Cho nên, nếu đến nay bạn chưa từng đạt được bất cứ thành tựu nào đáng kể, thì đó là do chưa có điều gì trong đời được bạn xem là "buộc phải đạt được".*
+
+* Viết ra năm mục tiêu hoặc nhiệm vụ mà bạn đã trì hoãn nhưng cuối cùng cũng thực hiện được
+    1. // TODO
+    2. // TODO
+    3. // TODO
+    4. // TODO
+    5. // TODO
+    
+* Viết ra năm mục tiêu hoặc nhiệm vụ mà bạn đã "lãng quên" cho đến thời điểm này
+    1. // TODO
+    2. // TODO
+    3. // TODO
+    4. // TODO
+    5. // TODO
+    
+* Điều khiến bạn cứ mãi trì hoãn, hoặc thậm chí lãng quên những mơ ước hoặc nhiệm vụ của mình là bởi vì chúng chưa trở thành điều bắt buộc đối với bạn => nâng cao **"Ngưỡng chấp nhận"** 
+
+## 3.5 Không phải những gì bạn mong muốn, mà chính những gì bạn sẵn sàng chấp nhận quyết định chất lượng cuộc sống của bạn
+* Cách chúng ta nhìn nhận bản thân như thế nào chính là yếu tố quyết định **Ngưỡng Kỳ Vọng** và **Ngưỡng Chấp Nhận** của chúng ta trong cuộc sống
+
+## 3.6 Để thành công, bạn phải nâng cao "Ngưỡng Chấp Nhận" của mình
+
+## 3.7 Có phải bạn đang mặc kẹt giữa hai ngưỡng của mình?
+
+## 3.8 Cảm giác "Không thỏa mãn" và "Đầy cảm hứng" thúc đẩy bạn tiến lên
+* Nâng cao tiêu chuẩn (hay Ngưỡng Chấp Nhận) của bản thân => phải có cảm giác "chưa thỏa mãn" (một cách tích cực)
+
+## 3.9 Bất thình lình, tôi thấy mình bé nhỏ...
+
+## 3.10 Ngưỡng Kỳ Vọng và Ngưỡng Chấp Nhận của bạn là gì?
+### Ngưỡng Kỳ Vọng // TODO
+* **Mức thu nhập**: Mức thu nhập mà bạn kỳ vọng là bao nhiêu?
+* **Lối sống**: Lối sống lý tưởng nhất đối với bạn là như thế nào?
+* **Sức khỏe**: Bạn muốn sức khẻo lý tưởng, cân nặng lý tưởng, thể hình lý tưởng ra sao?
+* **Sự nghiệp**: Bạn muốn đạt được những thành tựu to lớn vĩ đại nào trong bước đường sự nghiệp hoặc trong kinh doanh?
+* **Các mối quan hệ cá nhân**: Bạn muốn nuôi dưỡng những mối quan hệ với bạn bè và gia đình một cách toàn vẹn như thế nào?
+
+### Ngưỡng Chấp Nhận // TODO
+* **Mức thu nhập**: Mức thu nhập mà bạn chấp nhận được là bao nhiêu?
+* **Lối sống**: Lối sống chấp nhận được đối với bạn là như thế nào?
+* **Sức khỏe**: Bạn muốn sức khẻo lý tưởng, cân nặng lý tưởng, thể hình chấp nhận được ra sao?
+* **Sự nghiệp**: Những gì là chấp nhận được đối với bạn trong trong bước đường sự nghiệp hoặc trong kinh doanh?
+* **Các mối quan hệ cá nhân**: Những mối quan hệ với bạn bè và gia đình mà bạn chấp nhận được là như thế nào?
+
+* **Suy ngẫm**: Bạn có thấy sự khác biệt rất lớn giữa những gì bạn kỳ vọng và những gì bạn chấp nhận không? Khi nghĩ về điều đó, có phải bạn bắt đầu nhận ra rằng cuộc sống của bạn chính là kết quả của Ngưỡng Chấp Nhận mà bạn đề ra cho mình?
+
+## 3.11 Môi trường xã hội mà bạn sống góp phần quyết định các tiêu chuẩn của bạn
+| Tên người | Mức thu nhập ước |
+|-----------|------------------|
+|1. TODO    |                  |
+|2. TODO    |                  |
+|3. TODO    |                  |
+|4. TODO    |                  |
+|5. TODO    |                  |
+
+* Nếu bạn muốn vươn mình cao hơn để nâng Ngưỡng Chấp Nhận của bạn lên, thì bạn cũng cần đầu tư thời gian cho những người có thể thúc đẩy bạn tiến lên phía trước, những người không ngừng nâng cao tiêu chuẩn của mình.
+
+## 3.12 Nâng cao Ngưỡng Kỳ Vọng và Ngưỡng Chấp Nhận của mình
+* Những tiêu chuẩn mới mà bạn đề ra cho mình.
+* Những việc bạn sẽ làm để biến chúng thành điều bắt buộc
+* Nghĩ ra 3 người mà bạn muốn dành nhiều thời gian với họ bởi vì họ sẽ truyền cảm hứng cho bạn cũng như khiến bạn cảm thấy không còn thỏa mãn với sự trung bình của mình nữa.
+
+* **Mức thu nhập**: Bạn cần bao nhiêu tiền để thật sự sống thoải mái? Kể tên 3 người mà bạn muốn dành nhiều thời gian ở bên họ
+* **Lối sống**: Bạn muốn sống như thế nào? (Đó không nhất thiết phải là một cuộc sống hào nhoáng. Có người thích lối sống đơn giản nhưng độc lập về tài chính). Kể tên 3 người mà bạn muốn dành nhiều thời gian ở bên họ
+* **Sức khỏe**: Bạn muốn mình cân nặng bao nhiêu? Bạn phải có một cơ thể khẻo mạnh như thế nào?
+**Sự nghiệp**: Bạn cần mức độ thăng tiến như thế nào trên con đường sự nghiệp và kinh doanh?
+**Các mối quan hệ cá nhân**: Kiểu và chất lượng các mối quan hệ gia đình, bạn bè mà bạn nhất định phải đạt được là gì?
+
+## 3.13 Đặt mình vào thế phải hành động!
+* Hãy đặt mình vào tình thế không có đường thoái lui
+* Nói cách khác, hãy đặt mình vào tình huống mà bạn không còn sự lựa chọn nào khác ngoài việc phải hành động để đi đến thành công!
+
+## 3.14 Bắt đầu đặt bản thân vào thế phải hành động ngay bây giờ
+* Đặt mình vào thế phải hành động
+    1. Báo cho "cả thế giới" biết về những mục tiêu to lớn của bạn
+    2. Khiến một số người khác tham gia vào quá trình vươn tới thành công của bạn
+    3. Bỏ ra một số tiền đầu tư nho nhỏ nhưng đủ để bạn cảm thấy "đau lòng" nếu bạn không cố gắng tận dụng số tiền đó
+    
+## 3.15 Tôi đặt mình vào tình thế không thể thoái lui hết lần này đến lần khác
+* Ý tưởng chính ở đây là bạn phải biết đặt mình vào hoàn cảnh khiến bạn cảm thấy việc bỏ cuộc là hết sức "đau đớn, khó khăn" so với việc kiên trì theo đuổi mục tiêu của mình
+ 
+* Những mục tiêu tôi phải đạt được và cách tôi sẽ biến chúng thành điều bắt buộc
+    1. // TODO
+    2. // TODO
+    3. // TODO
+    4. // TODO
+    5. // TODO
+
+## 3.16 Sử dụng ngôn từ mạnh mẽ
+* Bằng việc lắng nghe "khẩu khí" của những người chung quanh, bạn có thể đoán được mức độ quyết tâm của họ trong việc tiến hành một việc gì đó
+* Sư dụng những từ ngữ manh mẹ như "phải", "cần phải", "buộc phải",... thay vì những từ ngữ "thích được", "mong muốn", "mong có thể", "hy vọng có thể",...
+* Mỗi khi bạn trì hoãn không chịu làm một việc gì mà bạn cảm thấy nên làm, hãy chú ý vào cách bạn tự nói với bản thân mình
+
+## 3.17 Tổng kết chương
+1. Hầu hết các mục tiêu mà con người đưa ra chẳng là gì khác ngoài những ước muốn nhạt nhẽo yếu ớt. Thế nên, họ bao giờ cũng tìm cớ nấn ná trong vòng thoải mãi của mình và trì hoãn hành động.
+2. **Cách duy nhất có thể giúp bạn đạt được bất cứ điều gì mình muốn là hạ quyết tâm làm điều đó như một điều bắt buộc.**
+3. Khi bạn quyết tâm làm bằng được một điều gì đó, bạn nhất định sẽ tìm ra cách. Ở đâu có ý chí, ở đó có con đường
+4. **Ai trong chúng ta cũng có Ngưỡng Kỳ Vọng và Ngưỡng Chấp Nhận của riêng mình. Và ai cũng có xu hướng nghiên về Ngưỡng Chấp Nhận hơn là cố gắng hướng tới Ngưỡng Kỳ Vọng.**
+5. Bạn phải nâng cao Ngưỡng Chấp Nhận bằng cách thiết lập mối quan hệ với những người hơn hẳn mình, dù trong việc chơi thể thao, học tập, làm cha mẹ hay trong sự nghiệp. Những người hơn hẳn bạn là những người sẽ truyền cảm hứng giúp bạn tiến lên và khiến bạn không thể ngủ quên trên vòng nguyệt quế của ngày hôm qua.
+6. **Bạn phải đặt mình vào tình thế không thể rút lui nếu bạn muốn đạt được một điều gì đó. Hãy làm cho cả bàn dân thiên hạ biết quyết tâm của mình và như thế bạn sẽ không còn cách nào khác ngoài việc phải thành công.**
+7. Ngôn từ mà bạn dùng tác động đến suy nghĩ và xúc cảm của bạn. Hãy luôn sử dụng những từ ngữ mạnh mẽ như "phai", "buộc phải", "cần phài",... để chúng giúp bạn luôn ở trong tâm thế đầy động lực và sáng tạo.
 
 # Chương 4: Chìa khóa của sức mạnh tuyệt đối
 * Làm thế nào để trở thành bậc thầy về giao tiếp?
