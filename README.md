@@ -268,7 +268,77 @@
 7. Ngôn từ mà bạn dùng tác động đến suy nghĩ và xúc cảm của bạn. Hãy luôn sử dụng những từ ngữ mạnh mẽ như "phai", "buộc phải", "cần phài",... để chúng giúp bạn luôn ở trong tâm thế đầy động lực và sáng tạo.
 
 # Chương 4: Chìa khóa của sức mạnh tuyệt đối
-* Làm thế nào để trở thành bậc thầy về giao tiếp?
+> "Bất cứ ai cũng có tiềm năng làm được những gì mà tôi đã làm và còn nhiều hơn nữa. Tuy nghiên, sẽ có những người thật sự làm được như vậy, trong khi những người khác thì không. Với những người không làm được thì bởi vì chính họ ngăn cản mình chứ không phải cuộc đời này không cho phép họ làm điều đó." - Warrent Buffett
+
+## 4.1 Chịu trách nhiệm hoàn toàn về cuộc sống cho bạn sức mạnh tuyệt đối
+* **Phương châm: Chừng nào bạn chịu trách nhiệm hoàn toàn về một việc gì đó thì chừng ấy bạn có quyền kiểm soát nó**
+
+## 4.2 Viện lý do và đổ lỗi cho người khác tước đi sức mạnh của bạn
+* **"Mọi người phải thay đổi hoặc hoàn cảnh phải khá hơn... thì mọi việc mới khả dĩ hơn đối với tôi"... Nhưng này, có phải thật sự như thế không?**
+* **Trong phần lớn trường hợp, thế giới và cuộc sống của bạn sẽ không thay đổi... trừ khi bạn thay đổi trước!**
+
+## 4.3 Vậy tại sao có quá nhiều người chọn trở thành "nạn nhân"?
+* Vì khi làm như vậy, chúng ta cảm thấy "an toàn" hơn
+* *** Tuy nhiên, đã đến lúc bạn cần phải biết một sự thật rằng, mặc dù việc đóng vai trò nạn nhân khiến bạn có cảm giac được bù đắp phần nào, thì cái giá của nó cũng rất đắt. Chừng nào bạn còn đổ lỗi cho hoàn cảnh hoặc ai đó đã gây ra những khó khăn cho mình, thì bạn cũng đang dần tự hủy hoại quyền lực tuyệt đối của bản thân để làm chủ cuộc đời mình và thay đổi nó**
+* Chịu trách nhiệm !== tự trách mình
+* Chịu trách nhiệm có nghĩa là bạn ý thức được rằng, những lựa chọn bạn đưa ra trong quá khứ dẫn đến kết quả ngày hôm nay
+
+## 4.4 Chịu trách nhiệm hoàn toàn về những việc mình làm và hệ quả của nó
+> "Xin đừng ngồi đó mà mong mọi việc sẽ tốt hơn, hãy làm cho mình tốt hơn."  - Jim Rohn
+* * Hãy tự hỏi mình, "Nếu mình chịu trách nhiệm về việc này, mình có thể làm gì để thay đổi nó?"
+
+## 4.5 Chịu trách nhiệm cho cả những cảm xúc của bạn
+* Chừng nào chúng ta còn tiếp tục đổ lỗi cho hoàn cảnh hoặc người khác về những cảm xúc của mình, chừng ấy tình trạng cảm xúc của chúng ta vẫn sẽ nằm ngoài vòng kiểm soát
+* Hãy bắt đầu chịu trách nhiệm về những cảm xúc của mình! Làm được như vậy, bạn sẽ có khả năng đưa mình vào những trạng thái cảm xúc mạnh mẽ và tích cực. Hay ít ra, bạn cũng không bị kiểm soát bởi những cảm xúc tiêu cực
+
+## 4.6 Làm thế nào để trở thành bậc thầy về giao tiếp
+* Định nghĩa cũ về Giao tiếp thành công: Khi hai người giao tiếp với nhau, cả hai sẽ chia đều trách nhiệm, tức là mỗi phía chịu trách nhiệm 50% cho sự thành công của việc giao tiếp đó.
+
+## 4.7 Chịu trách nhiệm 100% về thành công trong giao tiếp
+* Ý nghĩa thật sự trong thông điệp của bạn chính là phản hồi mà bạn nhận được! Hãy luôn điều chỉnh cách thức giao tiếp của mình cho đến khi bạn có được phản hồi mong muốn!
+* Chịu trách nhiệm và linh hoạt chính là chìa khóa để trở thành người giao tiếp hiệu quả
+
+## 4.8 Ngôn từ, giọng điệu và ngôn ngữ cơ thể
+* **Giao tiếp = Ngôn từ (7%) + Giọng điệu (38%) + Ngôn ngữ cơ thể (55%)**
+
+## 4.9 Không có học trò cứng đầu, chỉ có giáo viên cứng nhắc
+
+## 4.10 Bạn luôn có sự lựa chọn
+* **Nếu bạn quyết định chọn cách nghĩ tích cực và những niềm tin có sức mạnh, thế giới quanh bạn sẽ "tự nhiên" dần dần thay đổi theo chiều hướng bạn mong muốn!**
+
+## 4.11 Cuộc sống thay đổi khi bạn thay đổi
+* Để mọi sự thay đổi theo chiều hướng tốt hơn, bạn cần phải thay đổi trước. Một khi bạn can đảm chịu trách nhiệm về cuộc sống của mình và thay đổi bản thân, dường như mọi thứ và mọi người cũng dần thay đổi theo cách bạn mong muốn. Đó là sự lựa chọn của bạn, và mọi chuyện diễn ra trong tương lai đều xuất phát từ quyết định của bạn ngày hôm nay
+* Nếu bạn cần một phép lạ, hiến biến chính mình thành một phép lạ trước
+
+* Nếu bạn muốn có những đồng nghiệp tốt, hãy là một đồng nghiệp tốt
+* Nếu bạn muốn lôi kéo được những nhân viên tài giỏi, hãy là ông/bà chủ tuyệt vời
+* Nếu bạn muốn có con ngoan, hãy là bậc cha mẹ gương mẫu
+* Nếu bạn muốn có người bạn đời lý tưởng, hãy là người vợ hoặc chồng lý tưởng
+* Nếu bạn muốn có thu nhập cao, hãy mang lại lợi ích cho công ty hoặc khách hàng của bạn
+* Nếu bạn muốn thu hút những khách hàng tốt, hãy tạo ra những sản phẩm và dịch vụ tốt nhất
+
+* Hãy nói "Tôi chọn" thường xuyên hơn
+    * Những từ ngữ chúng ta dùng hàng ngày phản ánh cách chúng ta nghĩ và nhìn nhận về thế giới chung quanh. Khi dùng từ "tôi chọn" thường xuyên hơn, bạn sẽ bắt đầu nhìn mọi vật mọi việc với sức mạnh mới và khả năng kiểm soát cao hơn bạn nghĩ là có thể.
+    
+| Thay vì nói | Hãy nói |
+|-------------|---------|
+| Tôi tuyệt vọng | Tôi chọn cảm giác tuyệt vọng |
+| Họ không hiểu tôi | Tôi chọn cách giao tiếp làm cho họ không hiểu tôi |
+| Doanh thu của công ty giảm sút | Tôi chọn việc cho phép doanh thu công ty đi xuống |
+| Nhân viên chẳng có tý động lực làm việc | Tôi chọn việc để mặc cho tinh thần làm việc của nhân viên sa sút |
+| Tôi toàn gặp những hậu quả tệ hại | Tội chọn việc gặp phải những kết quả xấu |
+| Người ta toàn lợi dụng tôi | Tôi chọn việc để người khác lợi dụng |
+| Sức khỏe tôi rất kém | Tôi chọn việc có sức khỏe kém |
+
+## 4.12 Tổng kết chương
+1. Dám gánh vác trách nhiệm trong mọi hoàn cảnh mang đến cho bạn sức mạnh để thay đổi nó.
+2. Khi chúng ta tự biện hộ, đổ lỗi cho người khác hoặc than phiền, chúng ta tự tước mất quyền kiểm soát của mình, và tự biến mình thành một nạn nhân.
+3. Nhiều người thích trở thành "nạn nhân" vì đó là cách tốt nhất để né tránh rắc rối. Tuy nhiên, việc đó lại khiến họ phải trả giá đắt hơn về lâu về dài.
+4. Bàn cần phải dám gánh vác trách nhiệm về những kết quả bạn thu được qua hành động của mình, về cảm xúc của bạn và về cách bạn giao tiếp với mọi người
+5. Ý nghĩa thông điệp của bạn chính là phản hồi bạn nhận được, bất kể thông điệp bạn muốn chuyển đi là gì. Liên tục thay đổi cách bạn giao tiếp cho đến khi bạn nhận được kết quả mong muốn.
+6. Chúng ta thật sự giao tiếp thông qua ngôn từ (7%), giọng điệu (38%) và cử chỉ (55%).
+7. Để cuộc sống thay đổi, bạn cần phải thay đổi trước.
+8. Dùng cụm từ "Tôi chọn" để nói chuyện với bản thân và mang lại cho mình sức mạnh để thay đổi.
 
 # Chương 5: Sức mạnh không tưởng của niềm tin
 * Năm bước giúp bạn thay đổi niềm tin tiêu cực
