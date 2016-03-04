@@ -341,6 +341,57 @@
 8. Dùng cụm từ "Tôi chọn" để nói chuyện với bản thân và mang lại cho mình sức mạnh để thay đổi.
 
 # Chương 5: Sức mạnh không tưởng của niềm tin
+> "Niềm tin mạnh mẽ có thể giúp những người bình thường làm được những việc phi thường hoặc không tưởng. Ngược lại, niềm tin giới hạn có thể làm thui chột những con người tài năng nhất."
+
+* Niềm tin quyết định mong muốn
+* Niềm tin mạnh mẽ thúc đẩy bạn hành động và quyết định việc bạn sẽ tận dụng được bao nhiều phần trăm tiềm năng của mình
+
+![Sức mạnh không tưởng của niềm tin](images/suc_manh_niem_tin.png)
+
+## 5.1 Niềm tin: Chìa khóa mở cánh cửa tiềm năng của bạn
+
+## 5.2 Hiệu ứng Pygmalion
+* **Niềm tin của bạn về người khác có thể biến thành sự thật**
+
+## 5.3 Niềm tin của bạn thậm chí có thể ảnh hưởng cơ chế sinh học của bạn
+
+## 5.4 Khi niềm tin có thể chữa được bệnh ung thư
+
+## 5.5 Tâm trí con người không thể phân biệt giữa một trải nghiệm trong thực tế và một trải nghiệm sống động trong tưởng tượng
+* Dùng **phương pháp hình dung sáng tạo** để củng cố niềm tin mạnh mẽ
+
+## 5.6 Trái chanh ở đâu?
+
+## 5.7 Diễn tập trong tâm trí - "Vũ khí bí mật" của các vận động viên Nga
+
+## 5.8 So sánh việc luyện tập trong tâm trí và việc luyện tập thể chất
+
+## 5.9 Tôi đã luyện tập trong tâm trí để thi lấy bằng lái xe hơi với điểm số tuyệt đối
+
+## 5.10 Trước khi đạt được kết quả thật sự, bạn phải đạt được nó trong tâm trí trước đã
+
+## 5.11 Phá vỡ niềm tin của cả thế giới
+* Trở ngại duy nhất khiến nhiều người không đạt được mục tiêu và không tận dụng tối đa tiềm năng của họ không phải là vì họ không có khả năng, mà do chính niềm tin của họ giới hạn bản thân của họ.
+
+## 5.12 Niềm tin của bạn không bao giờ đúng tuyệt đối cả!
+* Nếu niềm tin của bạn đang cản trở bạn, bạn phải thay đổi chúng ngay từ bây giờ!
+* * Điều quan trọng không phải là niềm tin đúng hay không mà là việc nó tạo động lực hay cản trở chúng ta hành động
+* * Nếu người khác làm được, tôi cũng có thể làm được*
+* *Mọi việc xảy ra đều có một ý nghĩa đặc biệt riêng của nó đối với cuộc đời chúng ta*
+* *Đằng sau những thử thách là cơ hội đang ẩn mình*
+
+## 5.13 Những gì bạn tin tưởng sẽ trở thành sự thật đối với bạn!
+> "Dù bạn tin rằng mình có thể làm được hay không làm được việc gì, thì điều nào cũng đúng!" - Henry Ford
+
+* Ở bất cứ thời điểm nào, bạn không hề trải nghiệm thực tế mà là trải nghiệm nhận thức cá nhân của bạn về thực tế
+
+## 5.14 Điểm mù tri giác... bạn đã bao giờ gặp trường hợp này chưa?
+* Nếu bạn tin rằng không có cơ hội xung quanh và thời điểm kinh tế này tệ hại hết chỗ nói, bạn sẽ xóa đi mọi thứ đi ngược lại niềm tin của bạn, và bạn sẽ thấy khó khăn nhan nhản khắp nơi.
+
+## 5.15 Một số người nổi tiếng và thông minh từng hết lòng tin vào những điều mà... hiện nay chúng ta biết là hoàn toàn sai!
+
+## 5.16 Niềm tin được tạo thành như thế nào
+
 * Năm bước giúp bạn thay đổi niềm tin tiêu cực
 
 # Chương 6: Bí quyết làm việc đạt hiệu quả tối đa
