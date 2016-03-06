@@ -433,14 +433,192 @@
 9. Bạn phải chấp nhận những niềm tin tích cực và thay đổi những niềm tin giới hạn.
 10. Niềm tin được hình thành đầu tiên từ một ý tưởng và được củng cố bằng các bằng chứng.
 11. Có 5 bước để thay đổi niềm tin
-    a. Tìm đủ lý do để thay đổi niềm tin
-    b. Đánh gãy những bằng chứng củng cố niềm tin
-    c. Tạo ra một niềm tin tích cực mới
-    d. Tìm những bằng chứng mới để củng cố niềm tin mới
-    e. Nghĩ về tương lại và kết hợp tất cả mọi lợi ích của việc nuôi dưỡng niềm tin mới này
+    1. Tìm đủ lý do để thay đổi niềm tin
+    2. Đánh gãy những bằng chứng củng cố niềm tin
+    3. Tạo ra một niềm tin tích cực mới
+    4. Tìm những bằng chứng mới để củng cố niềm tin mới
+    5. Nghĩ về tương lại và kết hợp tất cả mọi lợi ích của việc nuôi dưỡng niềm tin mới này
 
 # Chương 6: Bí quyết làm việc đạt hiệu quả tối đa
-* Cách thức quản lý cảm xúc của bản thân
+
+## 6.1 Hành động tạo ra kết quả
+* Thành công được định nghĩa bằng việc bạn hành động như thế nào chứ không phải bằng số lượng kiến thức hay năng lực mà bạn sở hữu
+* Kiến thức có thể học được và năng lực có thể đạt được qua thời gian.
+* Nhưng hành động là thứ duy nhất xuất phát từ bên trong bản thân bạn. Đó là thứ duy nhất có thể tạo ra kết quả.
+* Chỉ có hành động mạnh mẽ mới là chìa khóa giải phóng tiềm năng của bản thân bạn. Do đó, những người biết kết hợp giữa kiến thức và hành động mạnh mẽ mới là kẻ bất khả chiến bại trong việc theo đuổi bất kỳ mục tiêu nào.
+
+## 6.2 Cảm xúc thúc đẩy hành động
+* Cảm xúc của bạn mới là "nguồn lực" chính thật sự thúc đẩy hành động và cách cư xử của bạn trong mọi thời điểm. Bản cảm thấy như thế nào thì bạn làm y như thế đó.
+* Những người luôn hành động nhất quán và gặt hái kết quả tốt đẹp là do họ lựa chọn để có được cảm xúc tích cực mỗi ngày. Chính những cảm xúc tích cực này cho phép họ tận dụng tối đa tiềm năng của họ và thành công tột bậc
+* 10 cảm xúc phổ biến của một người **thành công**
+    1. Động lực mạnh mẽ
+    2. Phấn khởi
+    3. Đam mê
+    4. Tràn đầy sinh lực
+    5. Tự tin
+    6. Căng thẳng (x)
+    7. Giận dữ    (x)
+    8. Lo lắng    (x)
+    9. Vui vẻ
+    10. Tò mò
+* 10 cảm xúc phổ biến của một người **bình thường**
+    1. Nản lòng            (x)
+    2. Lo sợ               (x)
+    3. Lười biếng          (x)
+    4. Trì hoãn            (x)
+    5. Phấn khởi
+    6. Lo lắng             (x)
+    7. Vui vẻ
+    8. Mệt mỏi và buồn ngủ (x)
+    9. Buồn tẻ             (x)
+    10. Phiền muộn         (x)
+    
+## 6.3 Bạn có làm chủ được cảm xúc của mình không?
+* Những người thành công chịu trách nhiệm cho cảm xúc của họ và biết cách điều khiển cảm xúc bản thân một cách có ý thức.
+* Những người trung bình, luôn cho rằng cảm xúc của mình thường xuyên bị những thói quen xấu và môi trường xung quanh kiểm soát.
+
+## 6.4 Chính bạn tạo ra cảm xúc của mình
+* Không ai và không có bất cứ việc gì có thể ảnh hưởng hay thay đổi cảm xúc của bạn, trừ khi bạn chọn việc cho phép bản thân bạn rơi vào cảm xúc đó.
+* Cảm xúc ở mỗi thời điểm được quyết định bởi 2 yếu tố
+    1. Trạng thái cơ thể
+    2. Cách nhận thức về mọi việc xung quanh
+    
+## 6.5 Trạng thái cơ thể ảnh hưởng đến cảm xúc của bạn
+* Trạng thái cơ thể một cách tổng quan là tình trạng cơ thể và dáng vẻ điệu bộ
+* Trình trạng cơ thể tác động trực tiếp đến cảm xúc
+* Dáng vẻ điệu bộ cũng ảnh hưởng đến cảm xúc
+    * Khi bạn hào hứng, bạn tự động chuyển dáng vẻ điệu bộ vào kiểu hào hứng
+
+## 6.6 Nhận thức ảnh hưởng đến cảm xúc
+* Nhận thức: ám chỉ việc bạn nghĩ gì và nghĩ như thế nào. Là cách bạn tái hiện những gì xảy ra xung quanh bên trong tâm trí bạn.
+* Những gì bạn nhận thức được không phải là những gì xảy ra trong thực tế mà là hình ảnh tái hiện của thực tế bên trong tâm trí bạn.
+* Những yếu tố chính sàng lọc và quyết định những gì bạn sẽ xóa bỏ, bóp méo và đúc kết các tác nhân kích thích lên não bộ là *niềm tin*, *giá trị* và *thái độ* của bạn.
+
+## 6.7 Vậy nhận thức của bạn do đâu mà có?
+* Chúng ta nhận thức về mọi việc chủ yếu thông qua việc tưởng tượng hình ảnh (nhìn thấy) và tạo ra âm thanh (nghe thấy), khuynh hướng nói chuyện với bản thân bằng giọng nói bên trong (độc thoại)
+* **TẤT CẢ** những gì bạn hình dung, những âm thanh bạn tạo ra và những gì bạn độc thoại đều tác động đến cảm xúc của bạn.
+
+## 6.8 Có phải ai cũng trải qua thất bại, bị người khác từ chối và gặp khó khăn trở ngại không?
+* Điểm khác biết giữa người thành công và kẻ thất bại nằm ở cách họ nhận thức về sự việc xảy ra với mình như thế nào
+* Những người thành công, chọn việc nhận thức về thất bại theo cách giúp họ duy trì cảm xúc tích cực.
+* **Khi mà bạn bắt đầu học cách điều chỉnh hình ảnh và từ ngữ trong tâm trí bạn một cách có ý thức, đó là lúc bạn bắt đầu làm chủ cảm xúc và hành động của mình.**
+
+## 6.9 Làm thế nào mà bạn tạo ra sự lười biếng và động lực phấn đấu?
+* Lười biếng là nguyên nhân số một giết chết sự thành công. Nó khiến con người ta ngừng hành động.
+* Cảm giác lười biếng là khi bạn biết bạn nên làm một việc gì đó nhưng cứ tri hoãn mãi.
+
+## 6.10 Cách điều khiển dáng vẻ điệu bộ của bạn
+
+## 6.11 Bài tập: Rơi vào cảm xúc chán nản mệt mỏi
+* Dáng vẻ điệu bộ khi chán nản
+    1. Tư thế
+        * Vai thõng xuống phía trước
+        * Đầu cúi thấp
+    2. Mắt
+        * Nhìn xuống, không tập trung
+    3. Hơi thở
+        * Nông và chậm
+    4. Giọng nói
+        * Âm vực thấp
+    5. Cơ bắp
+        * Thả lỏng, căng ở cổ
+    6. Cơ mặt
+        * Miệng ngậm lại, hai khóe môi xệ xuống. Cơ mặt chảy xuống.
+       
+## 6.12 Bài tập: Thoát ra khỏi sự chán nản bằng cách thay đổi dáng vẻ điệu bộ của bạn
+1. Tư thế
+    * Vai thõng xuống, đầu cúi thấp => **Thẳng vai lên, đầu ngẩng cao**
+    * Lưng còng xuống => **Người thẳng lên**
+2. Mắt
+    * Nhìn xuống, không tập trung => **Nhìn lên, mở mắt to ra, tập trung**
+3. Hơi thở
+    * Nông và chậm => **Thở nhanh và sâu hơn**
+4. Giọng nói
+    * Âm vực thấp, chậm => **Nói to hơn, nhanh hơn, giọng cao hơn**
+5. Cơ bắp
+    * Thả lỏng, căng ở cổ => **Làm căng cơ tay và vai**
+6. Cơ mặt
+    * Miệng ngậm lại, hai khóe môi xệ xuống, Cơ mặt chảy xuống. => **Miệng mở rông ra, làm căng hai bên má**
+    
+## 6.13 Con người thường quản lý cảm xúc của mình như thế nào
+* Chỉ cần thay đổi dáng vẻ điệu bộ của bạn một cách có ý thức là bạn có thể thay đổi cảm xúc của mình.
+
+## 6.14 Bài tập: Trải nghiệm việc thay đổi cảm xúc
+* *Thay đổi tư thế của bạn! Di chuyển nhanh hơn! Thở nhanh hơn! Nói to lên, nhanh hơn và hào hứng lên!*
+
+## 6.15 Bài tập: Đặt mình vảo tâm trạng cực kỳ buồn rầu
+* Bạn có thể chọn việc quản lý cảm xúc, biết cách thoát khỏi cảm xúc tiêu cực và chuyển bản thân vào cảm xúc tích cực, khi bạn cần tận dụng tối đa tiềm năng của mình.
+
+## 6.16 Điều khiển bản thân vào trạng thái cảm xúc tối ưu để đật hiệu quả tối đa
+
+## 6.17 Dáng vẻ điệu bộ đa năng và tối ưu
+
+## 6.18 Hãy "đóng kịch" cho đến khi bạn làm được
+* Đặt mình vào tư thế làm việc hiệu quả
+* Nếu bạn cảm thấy tự tin, hãy khoác len người dáng vẻ tự tin
+* Nếu bạn muốn có động lực mạnh mẽ, hãy tạo ra dáng vẻ có động lực
+* Nếu bạn muốn cảm thấy như thế nào, hãy làm ra vẻ như thể bạn đã cảm thấy như vậy rồi
+
+## 6.19 Đặt bản thân bạn vào trạng thái tự tin
+
+## 6.20 Các bước mô phỏng dáng vẻ điệu bộ của thành công
+1. Hãy nghĩ về một thời điểm trong quá khứ khi bạn cảm thấy rất tự tin
+2. Hãy đứng cách đứng như lúc bạn cảm thấy rất tự tin
+3. Hãy điều chỉnh hơi thở như lúc bạn cảm thấy rất tự tin
+4. Hãy biểu lộ nét mặt, mắt nhìn tập trung như lúc bạn cảm thấy rất tự tin
+5. Hãy làm điệu bộ như lúc bạn cảm thấy rất tự tin
+6. Hãy nói những gì bạn nói lúc bạn cảm thấy rất tự tin (với cùng giọng điệu, âm vực)
+
+## 6.21 Các vận động viên sử dụng dáng vẻ, điệu bộ tự tin để chiến thắng như thế nào
+
+## 6.22 Sự liên kết tâm trí - cơ thể
+* Nhận thức và dáng vẻ điệu bộ chúng ta tạo ra tạo thành một vòng tròn điều khiển liền mạch
+
+## 6.23 Bài tập: Hãy suy nghĩ về một khó khăn trước mắt
+* Trong tư thế mạnh mẽ, não bộ của bạn bắt đầu nhận thức vấn đề một cách tích cực hơn, do đó đưa bạn vào trạng thái cảm xúc tích cực để hành động.
+
+## 6.24 Mô phỏng dáng vẻ điệu bộ thành công của người khác
+* Bằng cách mô phỏng dáng vẻ chính xác của một người nào đó, bạn không chỉ có được cảm xúc của họ mà còn thấy được hình ảnh tái hiện trong tâm trí họ
+
+## 6.25 Mô phỏng dáng vẻ điệu bộ của người thành công
+* Nếu bạn mô phỏng dáng vẻ của một người nổi bật trong một lĩnh vực nào đó, bạn sẽ có được cảm xúc mạnh mẽ của người đó và nhanh chóng đạt được những thành tựu sáng chói trong lĩnh vực đó.
+* **Vậy thì làm thế nào để bạn làm được điều này?**
+    * Tìm ra một người cực kỳ giỏi về một kỹ năng hay hành vi nào đó đáng để bạn học hỏi
+    * Quan sát kỹ lưỡng cách người này nói chuyện (giọng điệu của họ), cách người này di chuyển, vẻ mặt của họ, cách họ thở, ánh mắt họ nhìn vả cử chỉ của họ
+    * Hình dung bạn trở thành chính bản thân người đó
+    
+## 6.26 Trò chơi đóng kịch của trẻ con chính là hành động mô phỏng dáng vẻ điệu bộ của người khác
+* Việc sử dụng kỹ thuật mô phỏng dáng vẻ điệu bộ này giúp nhiều người thành công mài dũa, tăng cường kỹ năng trong hầu hết mọi lĩnh vực trong cuộc sống cá nhân và nghề nghiệp
+
+## 6.27 Tôi đã mô phỏng 3 diễn giả kiệt xuất... cho đén khi tô trờ thành họ
+
+## 6.28 Mô phỏng khả năng ra quyết định và tạo dựng thành công mối quan hệ của người khác
+
+## 6.29 Hãy mô phỏng mô thức thành công chứ không phải mô thức tầm thường một cách có ý thức
+* Mô phỏng không chỉ đơn giản là bắt chước, đó là việc sao chép mà dựa trên đó, bạn cải thiện hay sửa đổi sao cho phù hợp với phong cách bản thân.
+
+## 6.30 Bài tập: Hãy suy nghĩ xem! Bạn có thể mô phỏng người nào?
+1. Khẳ năng giao tiếp
+2. Cách ra quyết định
+3. Sự nghiệp của bạn
+4. Sự tự tin
+5. Động lực cá nhân
+6. Sức hấp dẫndẫn
+
+* **3 bước mô phỏng**
+    1. Quan sát cách đi đứng, nhịp thở, cử chỉ và hành vi của người này. Quan sát vẻ mặt, tư thế và giọng nói của họ.
+    2. Nhẩm lại trong đầu những gì bạn quan sát được. Tưởng tượng bạn sẽ xuất hiện như thế nào nếu bạn là người này. Bạn sẽ phản ứng với mọi việc xung quanh ra sao? Bạn sẽ đi đứng, hít thở, hành động và cư xử như thế nào?
+    3. Thực hành những gì bạn nhẩm trong đầu. Tưởng tượng bản thân bạn là người thành công này và khoác lên người dáng vẻ của họ khi bạn làm việc hay giao tiếp với người khác mỗi ngày.
+
+## 6.31 Tổng kết chương
+1. Trạng thái cảm xúc mà bạn trải nghiệm thúc đẩy cách cư xử và hành động của bạn. Hành động của bạn lại ảnh hưởng đến kết quả mà bạn đạt được.
+2. Những người thành công có nhiều cảm xúc tích cực hơn cảm xúc tiêu cực.
+3. Bạn tự tạo ra cảm xúc của chính mình thông qua trạng thái cơ thể và nhận thức của bạn về mọ việc diễn ra xung quanh.
+4. Mỗi chúng ta nhận thức về sự việc bên ngoài rất khác nhau. Bạn cần phải điều khiển những hình ảnh và âm thanh phát sinh trong tâm trí để quản lý trạng thái cảm xúc của mình một cách có ý thức.
+5. Điều khiển dáng vẻ điệu bộ là phương pháp chính yếu trong việc quản lý cảm xúc của bạn.
+6. Bạn có thể có được cảm xúc tích cực bất cứ lúc nào bằng cách mô phỏng dáng vẻ điệu bộ của bạn trong quá khứ hay mô phỏng những người thành công trong lĩnh vực đó.
+
+![Mô hình diễn biến cảm xúc](images/mo_hinh_dien_bien_cam_xuc.png)
 
 # Chương 7: Điều khiển não bộ của bạn để đạt kết quả tối ưu
 * Mô thức vút nhanh: phương pháp thay đổi thói quen xấu
