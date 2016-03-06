@@ -391,8 +391,53 @@
 ## 5.15 Một số người nổi tiếng và thông minh từng hết lòng tin vào những điều mà... hiện nay chúng ta biết là hoàn toàn sai!
 
 ## 5.16 Niềm tin được tạo thành như thế nào
+* Hầu hết niềm tin đến từ việc bạn mô phỏng những người quan trọng xung quan bạn - như cha mẹ, thầy cô, bạn bè
+* Bạn có khuynh hướng tin vào những điều tương tự với những điều mà những người có ảnh hưởng lớn đến cuộc sống của bạn tin tưởng
+* Niềm tin là nhận thức và các lý giải mà bạn tạo ra về những kinh nghiệm trong quá khứ
+* Niềm tin luôn khởi nguồn từ một nhận định của người khác hay từ một ý tưởng bạn tự nghĩ ra. Khi bạn trải nghiệm nhiều sự việc củng cố cho ý tưởng hay nhận định đó, nó trở nên vững chắc và biến thành niềm tin
 
-* Năm bước giúp bạn thay đổi niềm tin tiêu cực
+## 5.17 "Tôi học dốt toán"... làm thế nào mà tôi có niềm tin này vao lúc năm tuổi
+
+## 5.18 Tôi phá vỡ niềm tin giời hạn này như thế nào
+* Thử thách những bằng chứng củng cố niềm tin giới hạn đó. Một khi bẻ gãy chân bàn, niềm tin sẽ sụp đổ
+
+## 5.19 Từ đứa trẻ dốt toán thành thần đồng toán học - bắt đầu chỉ với một niềm tin mới
+
+## 5.20 Bạn có những niềm tin giới hạn nào?
+* Sự khác biệt giữa người thành công, người trung bình và kẻ thất bại nằm ở những niềm tin mà họ có được về bản thân và những người xung quanh
+
+## 5.21 Làm thế nào để thay đổi niềm tin
+1. Tìm đủ lý do để thay đổi niềm tin
+    * Suy nghĩ về những hậu quả do niềm tin giới hạn mang lại cho bạn trong cuộc sống và tương lai sau này
+2. Đánh sập những "bằng chứng" tiêu cực gia cố cho niềm tin giới hạn
+    * Bằng chứng chống đỡ niềm tin, bằng cách trả lời câu hỏi:
+        1. Bạn đã tạo ra niềm tin này như thế nào?
+        2. Việc gì đã khiến bạn tin điều này là đúng?
+    * Tìm cách đánh gãy chúng, bằng cách trả lời câu hỏi
+        1. Điều này còn có ý nghĩa gì khác?
+        2. Có ví dụ phản biện nào không?
+        3. Người mang lại bằng chứng này có đáng tin cậy không?
+3. Tạo ra một niềm tin tích cực mới
+4. Tạo ra những bằng chứng mới để cũng cố niềm tin nàynày
+5. Tưởng tượng về tương lai và kết hợp tất cả mọi lợi ích của việc nuôi dưỡng niềm tin mới này
+
+## 5.22 Tổng kết chương
+1. Niềm tin là những gì thúc đẩy người bình thường đạt được những điều phi thường.
+2. Đồng thời, niềm tin giới hạn là rào cản khiến đa số mọi người không đạt được những gì họ thật sự có thể, cho dù họ có tiềm năng đến mức nào.
+3. Niềm tin của bạn quyết định những gì bạn mong muốn và có được từ bản thân.
+4. Niềm tin của bạn ảnh hưởng đến cơ chế sinh học và sức khỏe của bạn.
+5. Tâm trí con người không thể phân biệt giữa một sự việc có thật và một sự việc được tưởng tượng một cách sống động.
+6. Bạn có thể đạt hiệu quả tối đa thông qua phương pháp hình dung sáng tạo.
+7. Niềm tin không bao giờ đúng tuyệt đối. Niềm tin là những ý kiến và sự đúc kết mà bạn tạo ra về bản thân và thế giới xung quanh
+8. Bất cứ những gì bạn tin tưởng sẽ trở thành sự thật đối với bạn.
+9. Bạn phải chấp nhận những niềm tin tích cực và thay đổi những niềm tin giới hạn.
+10. Niềm tin được hình thành đầu tiên từ một ý tưởng và được củng cố bằng các bằng chứng.
+11. Có 5 bước để thay đổi niềm tin
+    a. Tìm đủ lý do để thay đổi niềm tin
+    b. Đánh gãy những bằng chứng củng cố niềm tin
+    c. Tạo ra một niềm tin tích cực mới
+    d. Tìm những bằng chứng mới để củng cố niềm tin mới
+    e. Nghĩ về tương lại và kết hợp tất cả mọi lợi ích của việc nuôi dưỡng niềm tin mới này
 
 # Chương 6: Bí quyết làm việc đạt hiệu quả tối đa
 * Cách thức quản lý cảm xúc của bản thân
