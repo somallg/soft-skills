@@ -702,7 +702,15 @@
     * Âm lương nhỏ, Âm lượng lớn?
     * Âm vực thấp, Âm vực cao?
     * Chậm, Nhanh?
-    
+
+* Giọng nói thầm
+    * Bạn tự nói gì với bản thân?
+    * Hướng âm thanh đó từ đâu tới?
+    * Đơn âm sắc hay Đa âm sắc?
+    * Âm lượng nhỏ, Âm lượng lớn?
+    * Âm vực thấp, Âm vực cao?
+    * Chậm, Nhanh?
+
 * Cảm nhận
     * Vị trí cảm giác của bạn ở đâu?
     * Hình dạng gì?
@@ -716,6 +724,35 @@
 * **Cảm nhận nội tại** là cách thức tâm trí bạn thể hiện cảm giác
 
 * Cách thức tâm trí bạn thể hiện bất cứ kinh nghiệm nào ảnh hưởng đến trạng thái cảm xúc và cường độ cảm xúc của bạn về kinh nghiệm đó.
+
+## 7.5 Dưới góc nhìn của bạn hay dưới góc nhìn của người khác
+* Khi trải nghiệm sự việc duới góc nhìn của mình, trạng thái cảm xúc của bạn mạnh mẽ hơn
+* Công thức của cảm giác phiền muộn:
+    * Hình dung những sự việc tiêu cực dưới góc nhìn của bạn + Hình dung những sự việc tích cực dưới góc nhìn của người khác
+
+## 7.6 Làm thế nào để tăng cường độ cảm xúc của bạn
+* Nhắm mắt lại, suy nghĩ về mục tiêu của mình và thay đổi từng giác quan nội tại một
+* Chuyển đổi các giác quan nội tai để tăng nguồn động lực hành động
+
+![Thị giác](images/thi_giac.png)
+
+![Thính giác](images/thinh_giac.png)
+
+![Giọng nói thầm](images/giong_noi_tham.png)
+
+![Cảm nhận](images/cam_nhan.png)
+
+* Các trạng thái cảm xúc hữu ích khác mà bạn cần tăng cười độ cảm xúc là:
+    * Sự tự tin vượt qua một thử thách nào đó
+    * Những kỷ niệm vui
+    * Những thành công trong quá khứ
+    * Nguồn động lực vươn lên để đạt được mục tiêu
+
+## 7.7 Giảm cường độ cảm xúc về những sự việc tiêu cực
+
+## 7.8 Xác định yếu tố thúc đẩy bạn
+* Những giác quan nội tại mà khi được chuyển đổi tạo ra tác động lớn đến trạng thái cảm xúc của bạn được gọi là Yếu Tố Thúc Đẩy.
+
 
 * Mô thức vút nhanh: phương pháp thay đổi thói quen xấu
 
