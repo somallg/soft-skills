@@ -621,6 +621,102 @@
 ![Mô hình diễn biến cảm xúc](images/mo_hinh_dien_bien_cam_xuc.png)
 
 # Chương 7: Điều khiển não bộ của bạn để đạt kết quả tối ưu
+* Hình ảnh tái hiện trong tâm trí là cách bạn tái hiện những gì xảy ra xung quanh - cách suy nghĩ của bạn về thế giới bên ngoài
+* Chúng ta tái hiện suy nghĩ của mình liên tục thông qua hình ảnh (thị giác), âm thanh (thính giác) và cảm nhận (cảm gíac) ,tất cả đều phát sinh trong tâm trí. Chúng ta có khuynh hướng tự đối thoại với bản thân qua độc thoại.
+* Để điều khiển cảm xúc, bạn phải học cách điểu khiển 2 yêu tố chính
+    1. NHỮNG GÌ bạn tập trung suy nghĩ
+    2. CÁCH THỨC suy nghĩ của bạn
+
+## 7.1 Những gì bạn tập trung suy nghĩ ảnh hưởng trạng thái cảm xúc của bạn  
+* Những người lạc quan tái hiện thất bại như một bài học kinh nghiệm chỉ dẫn cho họ cách giải quyết vấn đề. Thay vì bị ám ảnh bởi những hình ảnh tồi tệ, họ tập trung vào việc rút kinh nghiệm, và làm thế nào để họ hành động tốt hơn vào lần sau.
+* Hãy thay đổi NHỮNG GÌ bạn tập trung suy nghĩ một cách có ý thức 
+* Khi bạn điều khiển tâm trí một cách có chủ ý, hãy tránh xa cách yếu tố làm phân tán tư tưởng bạn. Hãy tìm một góc yên tĩnh hay đi dạo một mình.
+
+## 7.2 Điều khiển sự tập trung suy nghĩ
+* Những gì bạn tập trung suy nghĩ là những hình ảnh bị dình dung trong tâm trí, những âm thanh bạn tạo ra, những câu nói bạn tự đối thoại với minhf và cảm giác bên trong bạn.
+
+* **Tình huống 1** - Là lúc bạn chạm trán một việc khó khăn ngăn đường cản lối bạn đạt được mục tiêu
+    * Bạn phải tập trung suy nghĩ về:
+        * Những phương án giải quyết, những gì bạn có thể làm để vựot qua khó khăn
+        * Những triển vọng hay cơ hội mới
+            * "Làm thế nào để mình giải quyết việc này?"
+            * "Làm thế nào để mình xoay chuyển tình thế?
+            * "Làm sao để mình tìm được cơ hội trong tình huống này?"
+    * Bạn cần tránh suy nghĩ về:
+        * Vấn đề hay mức độ khó khăn gây ra cho bạn
+            * "Tại sao mình lại xuy xẻo thế này?"
+            * "Tại sao chuyện này luôn xảy ra với mình?"
+            * "Ông trời thật bất công!"
+            * "Tại sao chuyện này lại phải xảy ra cơ chứ?"
+            
+* **Tình huống 2** - Là thời điểm bạn không đạt được kết quả mong muốn
+    * Bạn phải tập trung suy nghĩ về:
+        * Những kinh nghiệm mà bạn học được từ việc này
+        * Làm thế nào để bạn thành công vào lần sau
+    * Bạn cần tránh suy nghĩ về:
+        * Trải nghiệm thất bại và cảm giác đau buồn của bạn về việc đó
+        * Những cuộc đối thoại trong tâm trí kém hiệu quả như
+            * "Ôi không!"
+            * "Sao mình lại để chuyện này xảy ra được cơ chứ?"
+            * "Chết rồi! Tôi chết mất thôi"
+            * "Tại sao mình cứ thất bại mãi thế này?"
+
+* **Tình huống 3** - Là lúc bạn đối mặt với một nhiệm vụ hay một dự án gian nan thử thách
+    * Bạn phải tập trung suy nghĩ về:
+        * Cảm giác của bạn khi đạt được thành công một cách dễ dàng
+        * Hình dung bản thân bạn làm việc đó một cách vui vẻ và đạt kết quả tốt
+            * "Mình không thể nào đợi thêm giây phút nào nữa. Việc này thật thú vị quá đi!"
+            * "Làm thế nào để tôi làm việc hiệu quả?"
+            * "Làm sao để tôi cảm thấy thích thú với công việc này?"
+    * Bạn cần tránh suy nghĩ về:
+        * Việc này khó khăn và phức tạp đến mức nào
+        * Bạn có thể phạm phải sai lầm hay thất bại ê chề ra sao
+            * "Mình có phải làm việc này bây giờ không?"
+            * "Làm sao mà tôi có thể làm xong việc được?"
+            * "Tại sao việc này lại khó đến thế cơ chứ?"
+            * "Nếu mình làm hỏng việc thì sao?"
+            * "Nếu mọi tính toán của tôi sai lầm thì thế nào?"
+
+## 7.3 Điều khiển cách thức tập trung suy nghĩ của bạn
+* Cảm xúc của bạn không chỉ phụ thuộc vào NHỮNG GÌ bạn nghĩ mà còn phụ thuộc vào CÁCH NGHĨ của bạn
+* Những lúc bạn cảm thấy cực kỳ có động lực hay hào hứng làm một việc gì đó là do những hình ảnh trong tâm trí bạn có khuynh hướng to hơn, gần hơn, sáng hơn và sống động hơn.
+
+## 7.4 Giác quan nội tại: "Bàn phím" của não bộ
+* Có 3 loại giác quan nội tại: thị giác, thính giác và cảm nhận.
+
+* Thị giác
+    * Góc nhìn của bạn hay Góc nhìn của người khác?
+    * Hình ảnh Tĩnh hay Động?
+    * Nhỏ, Lớn ?
+    * Phân tán, Tập trung?
+    * Tối, Sáng?
+    * Trắng đen hay Đủ màu sắc?
+    * Xa, Gần?
+    * Đóng khung hay Toàn cảnh?
+    * Vị trí hình ảnh?
+    
+* Thính giác
+    * Bạn nghe thấy âm thanh gì?
+    * Hướng âm thanh từ đâu tới?
+    * Đơn âm sắc hay Đa âm sắc?
+    * Âm lương nhỏ, Âm lượng lớn?
+    * Âm vực thấp, Âm vực cao?
+    * Chậm, Nhanh?
+    
+* Cảm nhận
+    * Vị trí cảm giác của bạn ở đâu?
+    * Hình dạng gì?
+    * Kích cỡ thế nào? Nhỏ, Lớn?
+    * Tĩnh hay Động?
+    * Hướng di chuyển ra sao?
+    * Nhẹ, Nặng?
+    
+* **Thị giác nội tại** là cách thức tâm trí bạn thể hiện hình ảnh
+* **Thính giác nội tại** là cách thức tâm trí bạn thể hiện âm thanh
+* **Cảm nhận nội tại** là cách thức tâm trí bạn thể hiện cảm giác
+
+* Cách thức tâm trí bạn thể hiện bất cứ kinh nghiệm nào ảnh hưởng đến trạng thái cảm xúc và cường độ cảm xúc của bạn về kinh nghiệm đó.
+
 * Mô thức vút nhanh: phương pháp thay đổi thói quen xấu
 
 # Chương 8: Neo cảm xúc: cần điểu khiển cảm xúc của bạn
