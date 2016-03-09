@@ -753,8 +753,161 @@
 ## 7.8 Xác định yếu tố thúc đẩy bạn
 * Những giác quan nội tại mà khi được chuyển đổi tạo ra tác động lớn đến trạng thái cảm xúc của bạn được gọi là Yếu Tố Thúc Đẩy.
 
+## 7.9 Áp dụng công thức của cảm xúc: Chuyển đổi giữa các cảm xúc
+* Quá trình này có 5 bước chính
+    1. Tìm hiểu các giác quan nội tại của trạng thái Lười Biếng
+    2. Tìm hiểu các giác quan nội tại của trạng thái Hăng Hái
+    3. Lưu ý sự khác biệt giữa các giác quan nội tại của hai trạng thái. Đây chính là các Yếu tố thúc đẩy bạn
+    4. Mang những giác quan nội tại của trạng thái Hăng Hái vào những lúc bạn cảm thấy Lười Biếng
+    5. Thử nghiệm
+    
+## 7.10 Bước 1. Tìm hiểu các giác quan nội tại của trạng thái Lười Biếng
+* Các giác quan nội tại của trạng thái lười biếng (ví dụ lau nhà hay hoàn tất một dự án)
 
-* Mô thức vút nhanh: phương pháp thay đổi thói quen xấu
+| Thị giác |            |
+|----------|------------|
+| Góc nhìn của bạn hay Góc nhìn của người khác? | Dưới góc nhìn của người khác |
+| Hình ảnh Tĩnh hay Động | Chuyển động như một bộ phim |
+| Nhỏ, Lớn ? | Nhỏ |
+| Phân tán, Tập trung? | Tập trung |
+| Tối, Sáng? | Tối |
+| Trắng đen hay Đủ màu sắc | Trắng đen |
+| Xa, Gần? | Gần |
+| Đóng khung hay Toàn cảnh? | Đóng khung |
+| Vị trí hình ảnh? | Hơi lệch khỏi trung tâm |
+
+
+| Thính Giác |           |
+|------------|-----------|
+| Bạn nghe thấy âm thanh gì? | Không có |
+| Hướng âm thanh từ đâu tới | Không có |
+| Đơn âm sắc hay Đa âm sắc | Không có |
+| Âm lượng nhỏ => Âm lượng lớn? | Không có |
+| Âm vực thấp => Âm vực cao? | Không có  |
+| Chậm => Nhanh? | Không có |
+
+
+| Giọng nói thầm |        |
+|----------------|--------|
+| Bạn tự nói gì với bản thân? | "Mình có cần phải làm việc này bây giờ không?" |
+| Hướng âm thanh từ đâu tới? | Bên tai phải |
+| Đơn âm sắc hay Đa âm sắc? | Âm thanh đơn sắc |
+| Âm lượng nhỏ => Âm lương lớn? | Trung bình |
+| Âm vực thấp => Âm vực cao? | Âm vực thấp (giọng nghe rất nhàm chán) |
+| Chậm => Nhanh? | Chậm |
+
+
+| Cảm nhận |        |
+|----------|--------|
+| Vị trí cảm giác của bạn là ở đâu? | Ở chân tay |
+| Hình dạng gì? | Hình vuông |
+| Kích cỡ như thế nào? Nhỏ => Lớn? | Lớn |
+| Tĩnh hay Động? | Chuyển động |
+| Hướng di chuyển là gì? | Đi xuống |
+| Nhẹ => Nặng? | Nặng |
+| Cường độ từ 1 đến 10 | 2 |
+
+
+## 7.11 Bước 2. Tìm hiểu các giác quan nội tại của trạng thái Hăng Hái (ví dụ đi chơi)
+
+| Thị giác |         |
+|----------|---------|
+| Góc nhìn của bạn hay Góc nhìn của người khác? | Dưới góc nhìn của bạn | 
+| Hình ảnh Tĩnh hay Động | Chuyển động như một bộ phim |
+| Nhỏ => Lớn? | Lớn hơn |
+| Phân tán => Tập trung? | Tập trung |
+| Tối => Sáng? | Sáng hơn |
+| Trắng đen hay Đủ màu sắc? | Đủ màu sắc |
+| Xa => Gần? | Gần |
+| Đóng khung hay Toàn cảnh? | Toàn cảnh |
+| Vị trí hình ảnh? | Ở trung tâm |
+
+
+| Thính Giác |           |
+|------------|-----------|
+| Bạn nghe thấy âm thanh gì? | Không có |
+| Hướng âm thanh từ đâu tới | Không có |
+| Đơn âm sắc hay Đa âm sắc | Không có |
+| Âm lượng nhỏ => Âm lượng lớn? | Không có |
+| Âm vực thấp => Âm vực cao? | Không có  |
+| Chậm => Nhanh? | Không có |
+
+
+| Giọng nói thầm |        |
+|----------------|--------|
+| Bạn tự nói gì với bản thân? | "Làm ngay nào!" |
+| Hướng âm thanh từ đâu tới? | Bên tai phải |
+| Đơn âm sắc hay Đa âm sắc? | Âm thanh đơn sắc |
+| Âm lượng nhỏ => Âm lương lớn? | To |
+| Âm vực thấp => Âm vực cao? | Âm vực cao (giọng nghe rất hào hứng) |
+| Chậm => Nhanh? | Nhanh |
+
+
+| Cảm nhận |        |
+|----------|--------|
+| Vị trí cảm giác của bạn là ở đâu? | Ở lồng ngực |
+| Hình dạng gì? | Hình tròn |
+| Kích cỡ như thế nào? Nhỏ => Lớn? | Rất lớn |
+| Tĩnh hay Động? | Chuyển động |
+| Hướng di chuyển là gì? | Đi lên |
+| Nhẹ => Nặng? | Nhẹ |
+| Cường độ từ 1 đến 10 | 9 |
+
+
+## 7.12 Bước 3. Lưu ý những điểm khác biệt
+| Thị giác | Trạng thái lười biếng | Trạng thái hăng hái |
+|----------|-----------------------|---------------------|
+| Góc nhìn của bạn hay Góc nhìn của người khác? | Dưới góc nhìn của người khác | Góc nhìn của bạn |
+| Hình ảnh Tĩnh hay Động | Chuyển động như một bộ phim | Chuyển động như một bộ phim |
+| Nhỏ, Lớn ? | Nhỏ | Lớn hơn |
+| Phân tán, Tập trung? | Tập trung | Tập trung |
+| Tối, Sáng? | Tối | Sáng hơn |
+| Trắng đen hay Đủ màu sắc | Trắng đen | Đủ màu sắc |
+| Xa, Gần? | Gần | Gần hơn |
+| Đóng khung hay Toàn cảnh? | Đóng khung | Toàn cảnh |
+| Vị trí hình ảnh? | Hơi lệch khỏi trung tâm | Ở trung tâm |
+
+
+| Thính Giác | Trạng thái lười biếng | Trạng thái hăng hái |
+|------------|-----------------------|---------------------|
+| Bạn nghe thấy âm thanh gì? | Không có | Không có |
+| Hướng âm thanh từ đâu tới | Không có | Không có |
+| Đơn âm sắc hay Đa âm sắc | Không có | Không có |
+| Âm lượng nhỏ => Âm lượng lớn? | Không có | Không có |
+| Âm vực thấp => Âm vực cao? | Không có  | Không có |
+| Chậm => Nhanh? | Không có | Không có |
+
+
+| Giọng nói thầm | Trạng thái lười biếng | Trạng thái hăng hái |
+|----------------|-----------------------|---------------------|
+| Bạn tự nói gì với bản thân? | "Mình có cần phải làm việc này bây giờ không?" | "Làm ngay nào?" |
+| Hướng âm thanh từ đâu tới? | Bên tai phải | Bên tai phải |
+| Đơn âm sắc hay Đa âm sắc? | Âm thanh đơn sắc | Âm thanh đơn sắc |
+| Âm lượng nhỏ => Âm lương lớn? | Trung bình | To |
+| Âm vực thấp => Âm vực cao? | Âm vực thấp (giọng nghe rất nhàm chán) | Âm vực cao (giọng nghe rất hào hứng) |
+| Chậm => Nhanh? | Chậm | Nhanh hơn |
+
+
+| Cảm nhận | Trạng thái lười biếng | Trạng thái hăng hái |
+|----------|-----------------------|---------------------|
+| Vị trí cảm giác của bạn là ở đâu? | Ở chân tay | Ở lồng ngực |
+| Hình dạng gì? | Hình vuông | Hình tròn |
+| Kích cỡ như thế nào? Nhỏ => Lớn? | Lớn | Rất lớn |
+| Tĩnh hay Động? | Chuyển động | Chuyển động |
+| Hướng di chuyển là gì? | Đi xuống | Đi lên |
+| Nhẹ => Nặng? | Nặng | Nhẹ |
+
+## 7.13 Bước 4. Mang các giác quan nội tại của trạng thái Hăng Hái vào những lúc bạn cảm thấy lười biếng
+* Chuyển đổi các cảm nhận nội tại của bạn
+* Mang những cảm nhận từ chân tay vào lồng ngực
+* Làm tròn dần cảm giác, khiến nó to ra và nhẹ hơn như kích cỡ của cảm nhận hăng hái
+* Tạo ra những chuyển động hướng lên
+
+## 7.14 Bước 5. Thử nghiệm
+* Quan sát xem bạn trở nên hào hứng như thế nào khi bạn nghĩ về việc hoàn tất dự án, sau khi đã áp dụng "bản thiết kế của trạng thái Hắng Hái".
+
+## 7.15 Chuyển đổi từ trạng thái căm ghét sang trạng thái yêu thích
+* 
 
 # Chương 8: Neo cảm xúc: cần điểu khiển cảm xúc của bạn
 * Ba loại neo cảm xúc ảnh hưởng đến cuộc sống của bạn như thế nào?
