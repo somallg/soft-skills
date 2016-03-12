@@ -907,8 +907,61 @@
 * Quan sát xem bạn trở nên hào hứng như thế nào khi bạn nghĩ về việc hoàn tất dự án, sau khi đã áp dụng "bản thiết kế của trạng thái Hắng Hái".
 
 ## 7.15 Chuyển đổi từ trạng thái căm ghét sang trạng thái yêu thích
-* 
+* Bước 1. Tìm hiểu các giác quan nội tại về món ăn mà bạn THÍCH
+* Bước 2. Tìm hiểu các giác quen nội tại về món ăn mà bạn GHÉT
+* Bước 3. Lưu ý những điểm đặc biệt. Đây chính là các Yếu Tố Thúc Đẩy
+* Bước 4. Mang những giác quan nội tại của "Ghét" vào những món ăn mà bạn "Thích"
+* Bước 5. Thử nghiệm
 
+## 7.16 Ký thuật xuyên tạc: Làm thế nào để xóa bỏ một sự việc cực kỳ tiêu cực
+1. Nghĩ về một sự việc tồi tệ khiến bạn buồn phiền hay khó chịu
+2. Quay lại sự việc đó trong tâm trí bạn như một bộ phim từ đầu đến cuối
+3. Quay lùi rồi quay tới bộ phim đó với tốc độ nhanh gấp 3 lần tốc độ bình thường. Bóp méo các giác quan nội tại (âm thanh và hình ảnh) để mọi thứ trở nên hài hước, thậm chí nực cười
+4. Lặp lại quá trình này 5-8 lần
+5. Thử nghiệm. Hãy nghĩ về sự việc tồi tề đó một lần nữa. Bây giờ bạn cảm thấy thế nào?
+
+* Kỹ thật xuyên tạc giúp bạn trung hòa cảm xúc tồi tệ để cảm thấy tích cực hơn và đưa ra những quyết định đúng đắn
+
+## 7.17 Mô thức vút nhanh: Làm thế nào để thay dổi thói quen cố hữu
+1. Việc này PHẢI được thay đổi
+2. Có một việc khác thay thế thói quen cũ
+3. Thói quen mới được hình thành
+    * Làm một việc gì đó liên tục trong vòng 28 ngày để nó thật sự trở thành thói quen của bạn
+    
+## 7.18 Mô thức vút nhanh cho một sự thay đổi nhanh chóng
+* Bước 1. Xác định các thói quen xấu cần được thay đổi
+    * Ăn quá độ, ngủ quá nhiều
+* Bước 2. Xác định YẾU TỐ thúc đẩy thói quen xấu đó
+    * Mỗi một hành vi đều được thúc đẩy bởi một thứ gì mà chúng ta nhìn thấy, nghe thấy hay cảm thấy. Những yếu tố này gọi là HÌNH ẢNH THÚC ĐẨY
+* Bước 3. Xác định TRẠNG THÁI CẢM XÚC/HÀNH VI MONG MUỐN của bạn. Tạo ra HÌNH ẢNH MONG MUỐN
+    * Huấn luyện não hướng tới trạng thái cảm xúc hay hành vi tích cực mới
+* Bước 4. Đẩy HÌNH ẢNH THÚC ĐẨY ra xa và kéo HÌNH ẢNH MONG MUỐN về phía bạn với TỐC ĐỘ CAO và âm thanh "Whoosh"
+* Bước 5. Lập lại quá trình này 10-15 lần
+* Bước 6. Thử nghiệm bằng cách tưởng tượng về tương lai
+
+# 7.19 Tổng kết chương
+1. Hình ảnh tái hiện trong tâm trí là cách bạn nhận thức về những gì xảy ra xung quanh. Đó chính là những suy nghĩ và cách nghĩ của bạn về "môi trường xung quanh"
+2. Bạn phải kiểm soát SUY NGHĨ của bạn bằng cách tập trung vào những hình ảnh và âm thanh khiến bạn hướng tới phương án giải quyết tích cực
+3. Bạn có thể điều khiển CÁCH THỨC suy nghĩ của bạn về một sự việc bằng cách sử dụng các giác quan nội tại
+4. Các giác quan nội tại giống như "bàn phím" của não bộ. Mỗi trạng thái cảm xúc đều có các giác quan nội tại riêng biệt gắn liền với nó
+5. Bạn có thể sử dụng các giác quan nội tại để
+    * Tăng cường tác động của một sự việc tích cực
+    * Giảm thiểu tác động của một sự việc tiêu cực
+    * Thay đổi cảm nhận của bạn về một sự việc bằng cách "áp dụng công thức của cảm xúc"
+6. Kỹ thuật xuyên tạc được dùng để trung hòa một sự việc tiêu cực
+    1. Nghĩ về một sự việc tồi tệ khiến bạn buồn phiền hay khó chịu
+    2. Quay lại sự việc đó trong tâm trí như một bộ phim từ đầu đến cuối
+    3. Quay lui rồi quay tới bộ phim đó với tốc độ nhanh gấp 3 lần tốc độ bình thường. Bóp méo các giác quen nội tại để mọi thứ trở nên hài hước thậm chí nực cười
+    4. Lặp lại quá trình này 5-8 lần
+    5. Thử nghiệm. Nghĩ về sự việc đó lần nữa. Bạn cảm thấy thế nào?
+7. Mô thức vút nhanh được dùng để thay đổi thói quen xấu và hình thành thói quen tốt
+    1. Xác định thói quen xấu cần được thay đổi
+    2. Xác định YẾU TỐ THÚC ĐẨY dẫn đến thói quen xấu đó. Tạo ra HÌNH ẢNH THÚC ĐẨY
+    3. Xác định TRẠNG THÁI/HÀNH VI MONG MUỐN để thay thế thói quen xấu. Tạo ra HÌNH ẢNH MONG MUỐN
+    4. Đẩy HÌNH ẢNH THÚC ĐẨY ra xa và kéo HÌNH ẢNH MON MUỐN lại gần với TỐC ĐỘ CAO và âm thanh "Whoosh"
+    5. Lập lại quá trình này 10-15 lần
+    6. Thử nghiệm bằng cách tưởng tượng về tương lai
+    
 # Chương 8: Neo cảm xúc: cần điểu khiển cảm xúc của bạn
 * Ba loại neo cảm xúc ảnh hưởng đến cuộc sống của bạn như thế nào?
 
