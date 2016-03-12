@@ -1000,8 +1000,49 @@
 6. Thực hiện chuyển hóa bối cảnh bằng cách trả lời câu hỏi: "Vào một thời điểm khác hoặc một nơi khác, điều này sẽ có ích lợi gì?"
 
 # Chương 10: Các giá trị sống: động lực phấn đấu của bạn
-* Thay đổi giá trị sống: thay đổi cuộc sống
+
+## 10.1 Tổng kết chương
+1. Những quyết định và hành động của bạn được thúc đẩy theo cách hướng về những cảm xúc tích cực và đồng thời tránh xa những cảm xúc tiêu cực
+2. Những cảm xúc tích cực mà bạn hướng tới được gọi là các "giá trị kéo". Những cảm xúc tiêu cực mà bạn tránh xa được gọi là các "giá trị đẩy"
+3. Con người xếp hạng các giá trị sống của mình khác nhau, do đó chúng ta có những quyết định khác nhau và hành động khác nhau
+4. Trong khi mục tiêu là hướng đi trong đời bạn, các giá trị sống giống như nguồn nhiên liệu cảm xúc thúc đẩy bạn tiến tới
+5. Khi bạn biết được các giá trị kéo và giá trị đẩy của một người nào đó, bạn có thể dự đoán cách người ấy đưa ra quyết định trong cuộc sống
+6. Nếu bạn thay đổi thứ tự ưu tiên trong bảng giá trị sống của một người và/hoặc cách người đó định nghĩa các giá trị của mình, bạn sẽ lập tức thay đổi cách hành xử và kết quả anh ta đạt được
+7. Một khi bạn có ý thức trong việc thay đổi các giá trị sống của mình, bạn có thể cài đặt các giá trị mới bằng cách
+    1. Cam kết sống theo các giá trị mới
+    2. Thường xuyên ôn lại các giá trị mới
+    3. Nạp thêm năng lượng cảm xúc cho các giá trị mới bằng cách tưởng tượng
+    4. Sống theo các giá trị mới
 
 # Chương 11: Thiết kế vận mệnh
-* Quy trình 7 bước giúp bạn đạt được mục tiêu đề ra
+> "Người ước mơ để trốn tránh thực tế, kẻ mơ ước để thay đổi thực tại vĩnh viễn." - Soichiro Honda
 
+> "Nếu bạn làm những việc mà ai cũng làm thì bạn sẽ chỉ có được những thứ mà ai cũng có!" - Adam Khoo
+
+## 11.1 Tổng kết chương
+1. Bạn phải biết chính xác mình muốn gì. Chỉ có vậy bạn mới phát triển được những chiến lược cụ thể và tập trung mọi nỗ lực để đạt mục tiêu đó
+2. Thành công ít khi do may mắn, phần nhiều nhờ dụng công thiết kế của bạn
+3. Những điều sau cản trở nhiều người thiết kế vận mệnh của mình:
+    * Niềm tin giới hạn
+    * Thật sự không biết rõ mình muốn gì
+    * Sợ thất bại
+    * Ham thích một cuộc sống êm đềm
+    * Cho rằng việc dặt mục tiêu không mang lại hiệu quả
+4. Những yếu tố quan trọng của mục tiêu:
+    * Cụ thể và đo lường được
+    * Đam mê và hứng thú
+    * Mục tiêu lớn mang lại ý tưởng và kết quả vượt trội
+5. Bạn phải thiết kế vận mệnh của mình trên những phương diện:
+    * Phát triển cá nhân
+    * Sự nghiệp và kinh doanh
+    * Tài chính và lối sống
+    * Gia đình và bạn bè
+    * Đóng góp cho xã hội
+6. Quy trình 7 bước đạt mục tiêu
+    1. Cụ thể, bạn muốn đạt được điều gì? Thời hạn bao lâu?
+    2. Bạn có thể mô phỏng những người thành công nào?
+    3. Bạn cần hành động như thế nào để đạt được mục tiêu? Thời hạn cho từng hành động? Hãy lên lịch cụ thể trong quyển sổ tay của bạn
+    4. Bạn cần những điều kiện gì? (nhân lực, tiền bạc, tài năng, kỹ năng,...)
+    5. Ba hành động cụ thể trong vòng 36 giờ là gì?
+    6. Tại sao bạn phải đạt được mục tiêu này?
+    7. Hãy hình dung về mục tiêu này mỗi ngày
