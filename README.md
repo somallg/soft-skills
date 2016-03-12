@@ -963,7 +963,28 @@
     6. Thử nghiệm bằng cách tưởng tượng về tương lai
     
 # Chương 8: Neo cảm xúc: cần điểu khiển cảm xúc của bạn
-* Ba loại neo cảm xúc ảnh hưởng đến cuộc sống của bạn như thế nào?
+* **Đừng để những neo cảm xúc tiêu cực tự nhiên điều khiển bạn... hãy tạo ra neo cảm xúc mạnh mẽ cho riêng bạn!**
+
+## 8.1 Tổng kết chương
+1. Khi bạn ở trong một trạng thái cảm xúc cao độ và có một tác nhân kích thích liên tục, liên kết thần kinh sẽ được hình thành giữa trạng thái cảm xúc và tác nhân kích thích đó, gọi là neo cảm xúc
+2. Có ba loại neo cảm xúc là neo hình ảnh, neo âm thanh và neo cảm nhận
+3. Bạn có thể cài đặt một neo cảm xúc bằng cách
+    1. Chuyển vào trạng thái cảm xúc cao độ
+    2. Thực hiện neo cảm xúc ngay tại đỉnh điểm cảm xúc
+    3. Lặp lại hai bước trên vài lần một cách chính xác
+    4. Thử nghiệm hiệu quả của neo cảm xúc
+4. Bốn yếu tố quan trọng để đảm bảo tính hiệu quả của một neo cảm xúc
+    1. Cường độ cảm xác
+    2. Thời điểm thực hiện neo cảm xúc
+    3. Sự lặp lại neo cảm xúc
+    4. Tính độc nhất của neo cảm xúc
+5. Bạn có thể loại bỏ những neo cảm xúc tiêu cực hạn chế khả năng của bạn và thay thế chúng bằng những cảm xúc tích cực mới qua 6 bước sau:
+    1. Xác định cảm xúc tiêu cực mà bạn muốn loại bỏ
+    2. Xác định những cảm xúc tích cực cần thiết
+    3. Thể hiện những cảm xúc tích cực khác nhau và tạo neo cảm xúc cho chúng
+    4. Thực hiện cả neo cảm xúc tích cực lẫn neo cảm xúc tiêu cực cùng lúc cho tới lúc đạt tới đỉnh điểm rồi ngưng neo cảm xúc tiêu cực
+    5. Tiếp tục duy trì neo cảm xúc tích cực trong vòng 5 giây nữa rồi ngưng
+    6. Thử nghiệm
 
 # Chương 9: Tìm ý nghĩa tích cực của sự việc
 * Nghệ thuật chuyển hóa ý nghĩa tiêu cực thành tích cực
