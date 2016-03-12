@@ -987,7 +987,17 @@
     6. Thử nghiệm
 
 # Chương 9: Tìm ý nghĩa tích cực của sự việc
-* Nghệ thuật chuyển hóa ý nghĩa tiêu cực thành tích cực
+> "Ý nghĩa mà tôi chọn cho một sự việc chính là ý nghĩa mà tôi tạo ra." - Adam Khoo
+
+* **Sự kiện + Phản ứng = Kết quả**
+
+## 9.1 Tổng kết chương
+1. Mỗi sự việc chứa trong lòng nó nhiều ý nghĩa, tùy thuộc vào cách nhìn của bạn
+2. Ý nghĩa mà bạn chọn để gán cho một sự việc là ý nghĩa mà bạn tạo ra
+3. **Định luật phân cực**: Bất cứ điều gì có vẻ tiêu cực ở cái nhìn bàn đầu cũng có thể trở nên tích cực khi nhìn từ một góc độ hay bối cảnh khác
+4. Chuyển hóa ý nghĩa là thay đổi một sự việc tiêu cực thành tích cực, bằng cách thay đổi cách bạn tiếp nhận nó
+5. Thực hiện chuyển hóa nội dung bằng cách trả lời câu hỏi, "Điều này có ý nghĩa gì khác?", "Sự việc này mang lại những lợi ích gì cho tôi?"
+6. Thực hiện chuyển hóa bối cảnh bằng cách trả lời câu hỏi: "Vào một thời điểm khác hoặc một nơi khác, điều này sẽ có ích lợi gì?"
 
 # Chương 10: Các giá trị sống: động lực phấn đấu của bạn
 * Thay đổi giá trị sống: thay đổi cuộc sống
