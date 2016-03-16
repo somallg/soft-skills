@@ -5,12 +5,35 @@
 ## 1.1 About us: how this course came to be
 
 ## 1.2 Downloading the course resources & overview
+* Learning is NOT a spectator sport
+* If it's not in your hands, it's not in your head
+* http://jle.vi/pdf2
+* 5 to 6 sessions of about 40 minutes in length every week
+* There is such a thing as working too hard
+* No more than 8 hours per week
 
-## 1.3 Progressive overloads & what to do if you get frustrated
+## 1.3 Progressive overload & what to do if you get frustrated
+* Progressive overload: always be training near or just below your limits
+* Immediately increase the level of intensity to maintain progress
+* Periodization
+* Variations in intensity and volume of training
+* Vary the training intensity to suit your needs and your progress
+* When learning comes easily, it doesn't stick
+* That doesn't mean that it's going to be effortless
+
+* Things TODO:
+    * Complete the goal and progress worksheet
+    * Post it publicly near your desk
+    * Identify the 3-5 goals you have for this course
+    * The reason you want to accomplish those goals. Be specific
+    * Checkout the articles and PDF syllabus
+    * The poromodo technique
+
+* Remind: You can do this
 
 ## 1.4 Personal Goals & Progress Worksheet
 
-## 1.5 Diagnostic Worksheet #1: Establish a baseline reading speed and retention
+## 1.5 Diagnostic Worksheet \#1: Establish a baseline reading speed and retention
 
 ## Quiz 6: Are we on the same page and ready to learn together?
 
@@ -82,7 +105,7 @@
 
 ## 6.35 How to properly test your comprehension without fooling yourself
 
-## 6.36 Diagnostic Worksheet 2: Establish a new reading speed and retention
+## 6.36 Diagnostic Worksheet \#2: Establish a new reading speed and retention
 
 ## 6.37 Misconceptions Pre-Quiz IV
 
@@ -116,7 +139,7 @@
 
 ## 7.51 Training Going Forward & what to do if you backslide
 
-## 7.52 Diagnostic Worksheet 3: Establish an "after" reading speed and retention
+## 7.52 Diagnostic Worksheet \#3: Establish an "after" reading speed and retention
 
 ## Quiz 53: Do we fully understand speed reading?
 
