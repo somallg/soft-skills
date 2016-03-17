@@ -42,8 +42,36 @@
 ## 2.7 Misconceptions Pre-Quiz!
 
 ## 2.8 Why we need to improve our memory first
+* We have to first upgrade the bucket
+* Working memory: very short term memory that allows us to interact with and process information (i.e listening to a complete sentence)
+* Our brains use several different types of buffers
+* Words, ideas, images, and scenes, do not all use the same path to get to short term memory
+* Short term memory: the memory function used to keep information for 15-20 seconds
+* Our working and short term memory are the primary bottlenecks
+* We're expected to just "remember" things
+* This is the general theory on how to improve learning
+* Apply those skills in your daily life
+* If you don't use it, you literally lose it
 
 ## 2.9 How we store information: a very brief explanation
+* Your mind is made up of about 100 billion tiny little cells called neurons
+* Synapses: specialized connections between neurons
+* Memories are created when your brain sends neurotransmitter signals to two neurons at the same time
+* The creation of memories requires connection between two neurons
+* Neurons work better in these types of clusters
+* The hippocampi tell our brain what's worth remembering
+* The more connection there are to a piece of information... the more likely your hippocampi are to determine that it's worth storing
+* Our brains have a capacity of about 2.5 petabytes
+* The more connections we make between our memories, the less likely they are to fade away
+* Create more connections to the information we want to learn
+* What about in the adult brain?
+* Research shows that adults learn just as well as children, if not better!
+* 5 requirements for aldult learning
+    1. Self-concept - Aldults are self-directed and independent. They need to take an active role in creating their learning experience
+    2. The role of experience - Aldults have a growing reservoir of experience (including mistakes) that is a critial resource for learning
+    3. Readiness to learn - Aldults are most ready to learn things that are pertinent to their daily life situations
+    4. Orientation to learning - Aldults respond best to learning things that will be immediately applicable. Aldults are more problem-centered than subject-centered in their learning
+    5. Moviation to learn - For aldults, the motivation to learn is internal: this means that they must know why they need to learn this information
 
 ## 2.10 Chunking: Navigating the brain's natural limitations
 
