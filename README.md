@@ -67,19 +67,34 @@
 * What about in the adult brain?
 * Research shows that adults learn just as well as children, if not better!
 * 5 requirements for aldult learning
-    1. Self-concept - Aldults are self-directed and independent. They need to take an active role in creating their learning experience
-    2. The role of experience - Aldults have a growing reservoir of experience (including mistakes) that is a critial resource for learning
-    3. Readiness to learn - Aldults are most ready to learn things that are pertinent to their daily life situations
-    4. Orientation to learning - Aldults respond best to learning things that will be immediately applicable. Aldults are more problem-centered than subject-centered in their learning
-    5. Moviation to learn - For aldults, the motivation to learn is internal: this means that they must know why they need to learn this information
+    1. Self-concept - Adults are self-directed and independent. They need to take an active role in creating their learning experience
+    2. The role of experience - Adults have a growing reservoir of experience (including mistakes) that is a critial resource for learning
+    3. Readiness to learn - Adults are most ready to learn things that are pertinent to their daily life situations
+    4. Orientation to learning - Adults respond best to learning things that will be immediately applicable. Adults are more problem-centered than subject-centered in their learning
+    5. Moviation to learn - For adults, the motivation to learn is internal: this means that they must know why they need to learn this information
 
 ## 2.10 Chunking: Navigating the brain's natural limitations
+* The working and short term memory can only remember sequences of 7 +- 2 pieces of information
+* Chunking is an entry level mnemonic technique
+* It's also a critical element of the overall technique
+* It works with just about everything
 
 ## 2.11 Demonstration: Chunking
+* Short-term visual memory training
+    * Split into quandrants (areas)
+* 20 random words generator
+    * Chunking by area
+    * Chunking by meaning
 
 ## 2.12 Chunking Worksheet
 
 ## 2.13 Dual coding & 'brute force' learning
+* "Brute Force Learning": to learn from diverse forms of material and various angles
+* The most successful learners attack a piece of material from many angles or perspectives
+* Strengthen the neural network associated with what you're trying to learn
+* Engage with the material in different ways
+* Once taught is twice learned
+* Share what you've learned so far with your friends!
 
 ## Quiz 14: How much do we understand about our memory?
 
@@ -88,10 +103,25 @@
 ## 3.15 Misconceptions Pre-Quiz II
 
 ## 3.16 Why images are the most powerful way to remember & learn
+* Visual information is simply easier to recall than auditory information
+* Pictures are more heavily encoded
+* A picture is worth a thousand words
+* A photo is just information
+* 30,000 words per minute
+* Transform concepts, ideas, and other important information into imagined visual pictures
+* Makers: imaginary pictures or visual associations used to represent information we want to remember
+* The best, and most memorable types of visual markers are strange, bizarre or emotionally connected to memories
 
-## 3.17 WHen & why creativity training may be necessary
+## 3.17 When & why creativity training may be necessary
+* Transform any and every piece of information you want to remember into an image
+* It takes creativity to try and rapidly generate a mental image for things
+* Creativity is something we are all born with
+* We can easily gain it back
+* You can kick-start your creativity
+* It's up to you to decide if you need to practice creativity
 
 ## 3.18 What types of images come naturally to you?
+* You too will build up a visual library
 
 ## Quiz 19: Do we understand how visual memory works?
 
