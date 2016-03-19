@@ -130,18 +130,25 @@
 ## 4.20 How do we apply visual memory to reading?
 
 ## 4.21 Demonstration: Visualization of words and concepts from text
+9:40
 
 ## 4.22 Creating effective markers for better memory
+11:09
 
 ## 4.23 Logical & creative markers
+3:04
 
 ## 4.24 Trying out your new skills
+2:51
 
 ## 4.25 Linking & chunking markers for better retention
+10:44
 
 ## 4.26 Demonstration: Putting it all together with random facts
+8:19
 
 ## 4.27 Demonstration: Putting it all together with written texts
+14:16
 
 ## Quiz 28: How well do we understand markers? 
 
@@ -150,52 +157,70 @@
 ## 5.29 Misconceptions Pre-Quiz III
 
 ## 5.30 Introducing the SQ3R System
+3:19
 
 ## 5.31 Pre-read before you read
+3:42
 
 ## 5.32 Creating burning interest: Prespectives, prior knowledge, & W/H questions
+6:05
 
 ## 5.33 Demonstration: Pre-reading
+6:59
 
 ## Quiz 34: Are we all clear on pre-reading?
 
 # Section 6. Read with your eyes, not with your inner voice
 
 ## 6.35 How to properly test your comprehension without fooling yourself
+3:57
 
 ## 6.36 Diagnostic Worksheet \#2: Establish a new reading speed and retention
 
 ## 6.37 Misconceptions Pre-Quiz IV
 
 ## 6.38 How most people read: subvocalization
+5:58
 
 ## 6.39 Saccades: using your eyes as effectively as possible
+4:07 
 
 ## 6.40 Improving your eye span: wider saccades
+2:00
 
 ## 6.41 Using saccades across various devices and media
+4:29
 
 ## 6.42 Final thoughts on saccades
+2:45
 
 ## 6.43 Demonstration: Saccades in action
+3:26
 
 ## Quiz 44: Do we understand how speed reading works?
 
 # Section 7. Let's speed things up!
 
 ## 7.45 Speed training with a card
+3:27
 
 ## 7.46 Progressive Overload Revisited: Training at the speed you wish to read
+8:55
 
 ## 7.47 Speed Tip: Tricking your brain into speeding up
+1:48
 
 ## 7.48 Managing pauses to create markers while speed reading
+6:17
 
 ## 7.49 Demonstration: Creating markers while speed reading
+8:19
 
 ## 7.50 Text structure and marker hierarchy
+4:19
 
 ## 7.51 Training Going Forward & what to do if you backslide
+5:01
 
 ## 7.52 Diagnostic Worksheet \#3: Establish an "after" reading speed and retention
 
@@ -206,12 +231,16 @@
 ## 8.54 Misconceptions Pre-Quiz V
 
 ## 8.55 Using Spaced Repetition to Help Us Maintain Memories
+4:49
 
 ## 8.56 Mind Mapping
+8:27
 
 ## 8.57 Memory Palaces
+9:03
 
 ## 8.58 Number memorization systems
+7:02
 
 ## Quiz 59: Do you know how to maintain your memories long term?
 
@@ -220,8 +249,10 @@
 ## 9.60 Misconceptions Pre-Quiz VI
 
 ## 9.61 Sleeping and learning: Why sleep is so crucial
+3:24
 
 ## 9.62 The proper learning evnironment
+4:37
 
 ## Quiz 63: Is your environment and lifestyle set up for learning?
 
@@ -230,13 +261,17 @@
 ## 10.64 Misconceptions Pre-Quiz VII
 
 ## 10.65 SuperLearning by video or audio
+3:34
 
 ## 10.66 Tailoring the skills: Learning languages
+10:29
 
 ## 10.67 Tailoring the skills: Never forget a face or a name
+2:56
 
 ## Quiz 68: Can you apply your new skills to things besides reading?
 
 ## 10.69 Thank You & Congratulations
+2:14
 
 ## 10.70 BONUS: Upgrade to the SuperLearner MasterClass & Continue Your Journey!
