@@ -214,3 +214,22 @@ http://www.keytostudy.com/creativity-kisckstart-creativity-habits/
 * "Curiosity has its own reason for existing" - Albert Einstein
 * "All great discoveries are made by people whose feelings run ahead of their thinking" - C H Oakhurst
 * "If you can dream it, you can do it" - Walt Disney
+* "If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them." - Henry David Thoreau
+* "Analysis kills spontaneity. The grain once ground into flour, springs and germinates no more." - Henri Frederic Amiel
+* "An invasion of armies can be resisted, but not an idea whose time has come" - Victor Hugo
+* "Discovery consists of looking at the same thing as everyone else and thinking something different" - Albert Szent Gyorgi
+* "Think before you speak is criticism's motto; speak before you think, creation's" - E M Forster
+* "Life does not consist mainly, or even largely, of facts and happennings. It consits mainly of the storm of thoughts that is forever blowing through one's head" - Mark Twain
+* "There are some things that are so serious you have to laugh at them" - Niels Bohr
+* "I pressed down on the mental accelerator. The old lemon throbbed fiercely. I got an idea" - P G Wodehouse
+* "Between the idea and the reality falls the shadow" - T S Eliot
+* "Launching a breakthrough idea is like shooting skeet. People's needs change, so you must aim well ahead of the target to hit it" - Raymond Kurzweil
+* "Half the failures in life arise from pullling on one's horse as it is leaping" - Julius Hare
+* "Honest criticism is hard to take, particularly from a relative, a friend, an acquaintance, or a stranger" - Franklin P Jones
+* "None of us are as smart as all of us" - Japanese proverb
+* "Tread softly because you tread on my dreams" - W B Yeates
+* "Never forget that only dead fish swim with the stream" - Malcom Muggeridge
+* "There is no limit to what a man can achieve as long as he doesn't care who get's the credit" - Bob Wooddruff. Coca Cola
+* "Think wrongly if you please, but in all cases think for yourself" - Doris Lessing
+* "Many ideas grow better when transplanted into another mind than in the one where they sprang up" - Oliver Wendell Holmes
+* "Everything that irritates us about others can lead us to an understanding of ourselves" - Carl Jung
