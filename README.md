@@ -137,13 +137,13 @@ http://www.keytostudy.com/creativity-kisckstart-creativity-habits/
     * I am willing to use my creative talents
     * I begin every task by thinking of new and better ways to accomplish it
     * I consider many possible solutions from many diverse sources
-    * I derserve a rewarding creative life
+    * I deserve a rewarding creative life
     * I have a constant flow of new and interesting ideas
     * I have an adventurous mind and seen new experiences regularly
     * I have an unusual ability to reach creative decisions and to find creative solutions for problems
     * I have rich creative talents
     * I have the courage and self-confidence necessary to put my solutions into practice
-    * I have the strenght and persistence necessary to work ideas through to solutions
+    * I have the strength and persistence necessary to work ideas through to solutions
     * I maintain a complexity of outlook on life
     * I play with partial, incomplete and sometimes foolish ideas
     * I recognise the task of making mistakes but learn from my failures
