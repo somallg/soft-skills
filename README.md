@@ -128,9 +128,24 @@
 # Section 4. Mental markers: visual memory meets learning
 
 ## 4.20 How do we apply visual memory to reading?
+* Batching like tasks
+* There are 3 stages of memory
+    1. Encoding
+    2. Storage
+    3. Retrieval
+* Untrained readers try to do all 3 stages at once
+* Grouping similar tasks together is an efficient way to minimizing waste
+* Makes short pauses of about 1-2 seconds
+* Longer pauses every 10 minutes or less
+* Your brain needs to periodically repeat and review information
+* "Play back" or retrieve our stored markers
+* We need to master the concept of "Markers"
+* Not all markers have to be visual
+* Smell is actually a more memorable sense than vision
+* Markers remind us of the details that we've decided we need to remember
+* Allows us to dual code and store information into long term memory
 
 ## 4.21 Demonstration: Visualization of words and concepts from text
-9:40
 
 ## 4.22 Creating effective markers for better memory
 11:09
