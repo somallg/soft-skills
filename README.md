@@ -148,7 +148,26 @@
 ## 4.21 Demonstration: Visualization of words and concepts from text
 
 ## 4.22 Creating effective markers for better memory
-11:09
+* Markers are really at the heart of the entire SuperLearning methodology
+* What makes a good, high-quality, memorable marker that can be easily linked and stored in our long term memory?
+    1. Good markers represent a concept
+        * A very specific and detailed concept that can be easily retrieved from the memory
+        * Encode each of the significant details of the paragraph
+        * Remember at least four concrete and related details for each summarizing marker
+    2. Good markers are imbued with rich details
+    3. Good markers can be easily connected to the other markers that come with it
+        * Each detail encodes some information
+        * Prioritize details over generic concepts
+        * Focus on memorizing those nitty-gritty details
+    4. Good markers can be easily and quickly converted to images
+    5. Good markers prioritize the solution or resolution, not the question
+    6. A good marker connects to existing information whenever possible
+* A lot of the knowledge you're trying to acquire is loosely related to existing knowledge
+* Try to create a marker or a detail within another marker for every single detail that you deem important
+* About two markers per paragraph with around 4 details each
+* 10 to 20 markers per page
+* You won't always remember them all
+* You're going to have to practice for a long time
 
 ## 4.23 Logical & creative markers
 3:04
