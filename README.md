@@ -1,2 +1,1 @@
-# soft-skills-books
-Soft skills books that i have read
+# The Power of Habit - Sức mạnh của thói quen
