@@ -27,7 +27,7 @@
     * Identify the 3-5 goals you have for this course
     * The reason you want to accomplish those goals. Be specific
     * Checkout the articles and PDF syllabus
-    * The poromodo technique
+    * The pomodoro technique
 
 * Remind: You can do this
 
@@ -66,12 +66,12 @@
 * Create more connections to the information we want to learn
 * What about in the adult brain?
 * Research shows that adults learn just as well as children, if not better!
-* 5 requirements for aldult learning
+* 5 requirements for adult learning
     1. Self-concept - Adults are self-directed and independent. They need to take an active role in creating their learning experience
-    2. The role of experience - Adults have a growing reservoir of experience (including mistakes) that is a critial resource for learning
+    2. The role of experience - Adults have a growing reservoir of experience (including mistakes) that is a critical resource for learning
     3. Readiness to learn - Adults are most ready to learn things that are pertinent to their daily life situations
     4. Orientation to learning - Adults respond best to learning things that will be immediately applicable. Adults are more problem-centered than subject-centered in their learning
-    5. Moviation to learn - For adults, the motivation to learn is internal: this means that they must know why they need to learn this information
+    5. Motivation to learn - For adults, the motivation to learn is internal: this means that they must know why they need to learn this information
 
 ## 2.10 Chunking: Navigating the brain's natural limitations
 * The working and short term memory can only remember sequences of 7 +- 2 pieces of information
@@ -81,7 +81,7 @@
 
 ## 2.11 Demonstration: Chunking
 * Short-term visual memory training
-    * Split into quandrants (areas)
+    * Split into quadrants (areas)
 * 20 random words generator
     * Chunking by area
     * Chunking by meaning
@@ -196,7 +196,7 @@
 ## 5.31 Pre-read before you read
 3:42
 
-## 5.32 Creating burning interest: Prespectives, prior knowledge, & W/H questions
+## 5.32 Creating burning interest: Perspectives, prior knowledge, & W/H questions
 6:05
 
 ## 5.33 Demonstration: Pre-reading
@@ -285,7 +285,7 @@
 ## 9.61 Sleeping and learning: Why sleep is so crucial
 3:24
 
-## 9.62 The proper learning evnironment
+## 9.62 The proper learning environment
 4:37
 
 ## Quiz 63: Is your environment and lifestyle set up for learning?
