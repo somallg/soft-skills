@@ -22,12 +22,12 @@
 * That doesn't mean that it's going to be effortless
 
 * Things TODO:
-    * Complete the goal and progress worksheet
-    * Post it publicly near your desk
-    * Identify the 3-5 goals you have for this course
-    * The reason you want to accomplish those goals. Be specific
-    * Checkout the articles and PDF syllabus
-    * The pomodoro technique
+  * Complete the goal and progress worksheet
+  * Post it publicly near your desk
+  * Identify the 3-5 goals you have for this course
+  * The reason you want to accomplish those goals. Be specific
+  * Checkout the articles and PDF syllabus
+  * The pomodoro technique
 
 * Remind: You can do this
 
@@ -67,11 +67,11 @@
 * What about in the adult brain?
 * Research shows that adults learn just as well as children, if not better!
 * 5 requirements for adult learning
-    1. Self-concept - Adults are self-directed and independent. They need to take an active role in creating their learning experience
-    2. The role of experience - Adults have a growing reservoir of experience (including mistakes) that is a critical resource for learning
-    3. Readiness to learn - Adults are most ready to learn things that are pertinent to their daily life situations
-    4. Orientation to learning - Adults respond best to learning things that will be immediately applicable. Adults are more problem-centered than subject-centered in their learning
-    5. Motivation to learn - For adults, the motivation to learn is internal: this means that they must know why they need to learn this information
+  1. Self-concept - Adults are self-directed and independent. They need to take an active role in creating their learning experience
+  2. The role of experience - Adults have a growing reservoir of experience (including mistakes) that is a critical resource for learning
+  3. Readiness to learn - Adults are most ready to learn things that are pertinent to their daily life situations
+  4. Orientation to learning - Adults respond best to learning things that will be immediately applicable. Adults are more problem-centered than subject-centered in their learning
+  5. Motivation to learn - For adults, the motivation to learn is internal: this means that they must know why they need to learn this information
 
 ## 2.10 Chunking: Navigating the brain's natural limitations
 * The working and short term memory can only remember sequences of 7 +- 2 pieces of information
@@ -81,10 +81,10 @@
 
 ## 2.11 Demonstration: Chunking
 * Short-term visual memory training
-    * Split into quadrants (areas)
+  * Split into quadrants (areas)
 * 20 random words generator
-    * Chunking by area
-    * Chunking by meaning
+  * Chunking by area
+  * Chunking by meaning
 
 ## 2.12 Chunking Worksheet
 
@@ -130,9 +130,9 @@
 ## 4.20 How do we apply visual memory to reading?
 * Batching like tasks
 * There are 3 stages of memory
-    1. Encoding
-    2. Storage
-    3. Retrieval
+  1. Encoding
+  2. Storage
+  3. Retrieval
 * Untrained readers try to do all 3 stages at once
 * Grouping similar tasks together is an efficient way to minimizing waste
 * Makes short pauses of about 1-2 seconds
@@ -150,18 +150,18 @@
 ## 4.22 Creating effective markers for better memory
 * Markers are really at the heart of the entire SuperLearning methodology
 * What makes a good, high-quality, memorable marker that can be easily linked and stored in our long term memory?
-    1. Good markers represent a concept
-        * A very specific and detailed concept that can be easily retrieved from the memory
-        * Encode each of the significant details of the paragraph
-        * Remember at least four concrete and related details for each summarizing marker
-    2. Good markers are imbued with rich details
-    3. Good markers can be easily connected to the other markers that come with it
-        * Each detail encodes some information
-        * Prioritize details over generic concepts
-        * Focus on memorizing those nitty-gritty details
-    4. Good markers can be easily and quickly converted to images
-    5. Good markers prioritize the solution or resolution, not the question
-    6. A good marker connects to existing information whenever possible
+  1. Good markers represent a concept
+    * A very specific and detailed concept that can be easily retrieved from the memory
+    * Encode each of the significant details of the paragraph
+    * Remember at least four concrete and related details for each summarizing marker
+  2. Good markers are imbued with rich details
+  3. Good markers can be easily connected to the other markers that come with it
+    * Each detail encodes some information
+    * Prioritize details over generic concepts
+    * Focus on memorizing those nitty-gritty details
+  4. Good markers can be easily and quickly converted to images
+  5. Good markers prioritize the solution or resolution, not the question
+  6. A good marker connects to existing information whenever possible
 * A lot of the knowledge you're trying to acquire is loosely related to existing knowledge
 * Try to create a marker or a detail within another marker for every single detail that you deem important
 * About two markers per paragraph with around 4 details each
@@ -170,7 +170,12 @@
 * You're going to have to practice for a long time
 
 ## 4.23 Logical & creative markers
-3:04
+* Examples of logical markers can include:
+  * Emotions such as excitement, anger, or confusion
+  * Symbols such as question marks or exclamation points
+  * Arrows, X's, Circles, check marks, and diagrams, schematics, or flow charts
+* Logical markers are very individualized
+* What is your option?
 
 ## 4.24 Trying out your new skills
 2:51
@@ -184,7 +189,7 @@
 ## 4.27 Demonstration: Putting it all together with written texts
 14:16
 
-## Quiz 28: How well do we understand markers? 
+## Quiz 28: How well do we understand markers?
 
 # Section 5. Pre-reading and preparation
 
