@@ -175,16 +175,47 @@
   * Symbols such as question marks or exclamation points
   * Arrows, X's, Circles, check marks, and diagrams, schematics, or flow charts
 * Logical markers are very individualized
-* What is your option?
 
 ## 4.24 Trying out your new skills
-2:51
+* Your homework is to try these new skills out
+* Create a marker
+* We're also training your creativity and marker generation skills
 
 ## 4.25 Linking & chunking markers for better retention
-10:44
+* You should be able to describe the ways that they're connected
+  using logical markers
+* You should be able to play them back like a film strip
+* Markers and their sub-details usually come in chucks
+* You can group markers together by different possible logical chunks
+* Examples grocery store
+  * 20 markers - one for each of these important items
+  * "Chunk" the list into departments
+  * Build your own story
+* Compound marker
+* Any set of markers can be chunked and linked with enough creativity
+* 4-7 objects
+* Visualize the first and the last
+* Avoid inserting information that was not originally in the text
+* Experiment with the different ways of chunking and packaging markers
 
 ## 4.26 Demonstration: Putting it all together with random facts
-8:19
+* We have greatly improved our comprehension and retention of the
+  information we read
+* Don't worry about doing all of this stuff while you actually read
+* Practice these technique by taking pauses during normal reading
+* We'll dive more into the process flow and timing of marker creation
+  when we dive into speed reading
+* Soon, you'll learn how to apply markers to anything you want to
+  learn...
+* This lecture will show you how to create and link markers using the
+  marker technique
+* These examples should help you see the types of markers we hope you'll
+  be making
+* Google random facts
+* Each detail itself become a sub-marker which is carefully linked into
+  the central marker
+* Created an overall marker, comprised of animated, action-packed
+  sub-markers
 
 ## 4.27 Demonstration: Putting it all together with written texts
 14:16
