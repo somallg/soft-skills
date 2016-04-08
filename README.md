@@ -10,19 +10,34 @@
 * *Later equals never*
 
 ## 1.3 The Total Cost of Owning a Mess
-  * The Grand Redesign in the Sky
-  * Attitude
-  * The Primal Conundrum
-  * The ARt of Clean Code?
-  * What Is Clean Code?
+* Driving productivity toward zero
+
+### 1.3.1 The Grand Redesign in the Sky
+* Spending time keeping your code clean is not just cost effective; it's a matter of professional survival
+
+### 1.3.2 Attitude
+* It is unprofessional for programmers to bend to the will of managers who don't understand the risks of making messes
+
+### 1.3.3 The Primal Conundrum
+* The *only* way to make the deadline is to keep the code as clean as possible at all times
+
+### 1.3.4 The Art of Clean Code?
+* Programmer who writes clean code is an artist who can take a blank screen through a series of transformations until it is an elegantly coded system
+
+### 1.3.5 What Is Clean Code?
+* Clean code is *focused*. Each function, each class, each module exposes a single-minded attitude that remains entirely undistracted, and unpolluted, by the surrounding details
+* No duplication, expressiveness, tiny abstractions
 
 ## 1.4 Schools of Thought
 
 ## 1.5 We Are Authors
+* Making code easy to read actually makes it easier to write
 
 ## 1.6 The Boy Scout Rule
+* *Leave the campground cleaner than you found it*
 
 ## 1.7 Prequel and Principles
+* *Agile Software Development: Principles, Patterns, and Practices*
 
 ## 1.8 Conclusion
 
