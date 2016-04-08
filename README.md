@@ -48,14 +48,19 @@
 ## 2.1 Introduction
 
 ## 2.2 Use Intention-Revealing Names
+* Names should tell why it exists, what it does, and how it is used
 
 ## 2.3 Avoid Disinformation
 
 ## 2.4 Make Meaningful Distinctions
+* Noise words are redundant
+* The word `variable` should never appear in a variable name
+* The word `table` should never appear in a table name
 
 ## 2.5 Use Pronounceable Names
 
 ## 2.6 Use Searchable Names
+* *The length of a name should correspond to the size of its scope*
 
 ## 2.7 Avoid Encodings
   * Hungarian Notation
@@ -63,24 +68,32 @@
   * Interfaces and Implementations
 
 ## 2.8 Avoid Mental Mapping
+* *Clarity is king*
 
 ## 2.9 Class Names
+* Classes and objects should have noun or noun phrase names
+* A class name should not be a verb
 
 ## 2.10 Method Names
+* Methods should have verb or verb phrase names
 
 ## 2.11 Don't Be Cute
+* Choose clarity over entertainment value
 
 ## 2.12 Pick One Word per Concept
+* Consistent lexicon
 
 ## 2.13 Don't Pun
 
 ## 2.14 Use Solution Domain Names
+* Choose technical names
 
 ## 2.15 Use Problem Domain Names
 
 ## 2.16 Add Meaningful Context
 
 ## 2.17 Don't Add Gratuitous Context
+* Shorter names are generally better than longer ones, so long as they are clear
 
 ## 2.18 Final Words
 
@@ -96,8 +109,11 @@
   * Reading Code from Top to Bottom: *The Stepdown Rule*
 
 ## 3.4 Switch Statements
+* Appear only once, are used to create polymorphic objects, and are hidden behind an inheritance relationship
 
 ## 3.5 Use Descriptive Names
+> You know you are working on clean code when each routine turns out to be pretty much what you expected
+* Be consistent in your names. Use the same phrases, nouns, and verbs in the function names
 
 ## 3.6 Function Arguments
   * Common Monadic Forms
