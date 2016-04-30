@@ -277,29 +277,61 @@
 # Section 6. Read with your eyes, not with your inner voice
 
 ## 6.35 How to properly test your comprehension without fooling yourself
-3:57
+* Confirmation bias
+* Jot down everything you remember on paper or a text document
+* You can learn a lot from the details you neglected or remembered incorrectly
+* Ask yourself why it happened
+* Sometimes, a bias towards specific types of information is a good thing
+* You'll be able to identify and recall every detail, concept, and idea that you deem pertinent
+* Work this exercise into your normal training
 
 ## 6.36 Diagnostic Worksheet \#2: Establish a new reading speed and retention
 
 ## 6.37 Misconceptions Pre-Quiz IV
 
 ## 6.38 How most people read: subvocalization
-5:58
+* When we're taught to read, we have to sound it out
+* This is a very hard habit to break
+* Subvocalization takes high quality visual information and degrades the quality and bandwidth
+* Subvocalization maxes out at 250 WPM
+* Speed reading starts at 450 WPM
+* Your brain requires only 13 milliseconds to recognize an image
+* Subvocalization leads to distraction and poor focus
+* By subvocalizing, you're trying to perform the encoding, the storage and retrieval processes all at once
+* Written words are just another form for visual symbols
+1. More efficient encoding
+2. More efficient storage
+3. More delibrate retrieval
 
 ## 6.39 Saccades: using your eyes as effectively as possible
-4:07 
+* Our eyes are actually incapable of making smooth, gradual movements
+* Saccade (n): the quick, precise, "jumping" movement made by the eye
+* Fixation (n): the point between two saccades where the eye is stationary and focused
+* Average readers do 10 to 20 small saccades per line of text
+* Whenever your eyes are in motion, they are not sending information to the brain
+  * Saccadic masking or "saccadic blindness"
+* 1 or 2 saccades per line  
+* This is the basis for all speed reading
 
 ## 6.40 Improving your eye span: wider saccades
-2:00
+* We can train the eye to have a wider fixation
+* Schultz tables
+* The best speed readers can reach up to 12 words in one fixation
+* 
 
 ## 6.41 Using saccades across various devices and media
-4:29
+* It's important to learn how to speed read in any condition
+* We don't recommend using "automation" software
+  * Those tools do not train you to make the most efficient eye movements
+* Format reading materials into the most ideal speed reading layout, whenever possible
+* To to get reading materials in .mobi or .epub native formats
+* Experiment with some of the apps, extensions, and services we've recommended
 
 ## 6.42 Final thoughts on saccades
-2:45
+* "You have to make sure you're reading the black stuff, not the white stuff"
+* Include some overlap between your saccades
 
 ## 6.43 Demonstration: Saccades in action
-3:26
 
 ## Quiz 44: Do we understand how speed reading works?
 
