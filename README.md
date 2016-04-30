@@ -227,16 +227,50 @@
 ## 5.29 Misconceptions Pre-Quiz III
 
 ## 5.30 Introducing the SQ3R System
-3:19
+* SQ3R
+  * Survey => skim or scan the content before we read it to prepare our mind
+  * Quesiton => ask ourselves questions to improve motivation
+  * Read => do not reread or dwell on irrelevant details
+  * Recall => add details to the markers after reading each paragraph
+  * Review => see what you learned and try to connect it to previous knowledge
+* Pre-reading is a speed-reader's hidden weapon
+* Enhance curiosity and focus, improve reading speed, and boost overall retention
 
 ## 5.31 Pre-read before you read
-3:42
+* Survey (v): to investigate, examine, question, and record information
+* Pre-reading helps us speed up, priming our brain for reading the text
+* Read five to eight times our current reading speed
+* Just looking for
+  * Titles
+  * Sub-headings
+  * Proper nouns
+  * Numbers
+  * Words
+  * Or things that just don't seem to fit it
+* Generate thoughts and ideas about the text
 
 ## 5.32 Creating burning interest: Perspectives, prior knowledge, & W/H questions
-6:05
+* Adult learners need to be curious about what they're learning and
+  connect it to their existing knowledge
+* Inspire within yourself a burning curiosity or interest
+* How to do that:
+  1. Envision yourself using the material
+  2. Start asking questions
+  3. Consider different perspectives
+    * What viewpoint do I anticipate the author taking?
+    * What viewpoint do I have going into reading this article?
+    * Where might the author be wrong?
+    * Where am I open to being persuaded on this topic?
+    * How could this material be improved?
+    * What would critics of this article likely say?
+    * Who are some people I know who might agree or disagree with what this article likely says?
+    * What would I expect to see in this text that I am not seeing at this speed?
+* You'll have a lot of questions that you're very eager to answer
 
 ## 5.33 Demonstration: Pre-reading
-6:59
+* Keep in mind: pre-reading is highly individual!
+* The words that catch your interest may differ from the examples given
+* Based on how much detail you want to retain and the format of the text, you should decide how much to pre-read in advance
 
 ## Quiz 34: Are we all clear on pre-reading?
 
