@@ -310,14 +310,13 @@
 * Average readers do 10 to 20 small saccades per line of text
 * Whenever your eyes are in motion, they are not sending information to the brain
   * Saccadic masking or "saccadic blindness"
-* 1 or 2 saccades per line  
+* 1 or 2 saccades per line
 * This is the basis for all speed reading
 
 ## 6.40 Improving your eye span: wider saccades
 * We can train the eye to have a wider fixation
 * Schultz tables
 * The best speed readers can reach up to 12 words in one fixation
-* 
 
 ## 6.41 Using saccades across various devices and media
 * It's important to learn how to speed read in any condition
@@ -338,25 +337,101 @@
 # Section 7. Let's speed things up!
 
 ## 7.45 Speed training with a card
-3:27
+* Never, ever, ever go back on a paragraph of text because you feel you
+  missed something
+* Go back only after you've finished the whole paragraph
+* By doing this, backskipping becomes a self-testing exercise, not a
+  safety net
+* Never stop and reread in the middle of a paragraph
 
 ## 7.46 Progressive Overload Revisited: Training at the speed you wish to read
-8:55
+* The goal is not to speed up your reading to match your comprehension,
+  but rather the opposite
+* Train until your comprehension is able to catch up to that speed
+* You're going to feel that you're not getting anything out of the text
+* High comprehension and retention are ultimately your top priorities
+* Using these apps is for temporary comprehension training only
+* Remember to pause, create markers, and review them
+* Move on when you can retain about 70% of the details
+* This could take weeks or even months to master
+* You'll have good days and bad days
+* While you're learning, your comprehension will not be very high, and
+  that's ok
+* Your comprehenstion is going to be better using sight reading!
+* The training phases
+  0. 250-300 words per page (avg. # of words per line x # of lines per
+     page)
+  1. Phase 1: <= 1 min/page (250 wpm)
+  2. Phase 2: ~45 seconds/page (350 wpm)
+  3. Phase 3: ~30 seconds/page (500 wpm)
+  4. Phase 4: <= 25 seconds/page (700 wpm)
+  5. Phase 4: <= 15 seconds/page (1000 wpm)
 
 ## 7.47 Speed Tip: Tricking your brain into speeding up
-1:48
 
 ## 7.48 Managing pauses to create markers while speed reading
-6:17
+* We should not create markers while we're reading simultaneously
+* 1 or 2 markers per paragraph
+* With time, you may notice that markers automatically pop into your
+  head
+* Pause for a second or so after each paragraph
+* The general ideas of the paragraph make the markers
+* We start with very simple markers
+* Assigning an "emotional color" to the paragraph as a marker
+* You will become faster and faster at creating the markers
+* You brain will most likely create markers "on the fly" as you read
+* It's ok to take even a few seconds after each paragraph to create and
+  link markers
+* Subvocalize your markers only
+* You should create possible markers during pre-reading
+* Pre-reading speed up marker generation
+* Take regular pauses to look around you
+* Take a long pause between chapters and look up from your book
+* This is a crucial step in tricking the hippocampi into thinking the
+  information is relevant
+* The best SuperLearners make sure to review the things they've learned
+* Review
+  1. Make small pauses of around 1 second in between paragraph
+  2. Make medium pauses of 2-3 seconds between pages
+  3. Make larger pauses of 15-30 seconds between chapters
+  4. And add in any additional pauses any time you feel overwhelmed
 
 ## 7.49 Demonstration: Creating markers while speed reading
-8:19
+* We are creating markers while our eyes jump from paragraph to paragraph
+* ...and we link our markers in between sections
 
 ## 7.50 Text structure and marker hierarchy
-4:19
+* Utilize the text's inherent structure to our advantage
+* Top level:
+  * Title
+  * Publication information
+  * Authors
+  * Main idea
+  * Links to other knowledge
+  * Impressions & criticisms
+* Middle level:
+  * Book structure
+  * How different ideas relate
+  * What information is where
+* Bottom level:
+  * Detailed information by section
+  * Stories
+  * Examples
+  * Other interesting details
+* Generate strong differentiations between what we read and the
+  reactions and thoughts we have
 
 ## 7.51 Training Going Forward & what to do if you backslide
-5:01
+* You are responsible for being a self-directed learner
+* Remember to practice as many days a week as possible, with at least 4
+  practice sessions a week
+* Make sure your required reading into a great opportunity to practice
+* These effects will only continue to develop and becme more dramatic
+  and more effortless
+* Sometimes, you'll slip back into old habits
+* Don't lose focus or get frustrated
+* You can always return back to the lessions, the excercises, and the
+  fundamentals
 
 ## 7.52 Diagnostic Worksheet \#3: Establish an "after" reading speed and retention
 
