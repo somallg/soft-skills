@@ -442,16 +442,43 @@
 ## 8.54 Misconceptions Pre-Quiz V
 
 ## 8.55 Using Spaced Repetition to Help Us Maintain Memories
-4:49
+* A big part of SuperLearning is intelligent recall and review
+* We can reduce the forgetting curve and in some cases almost eliminate
+  it
+* Using new information is perhaps the best way to keep it well-stored
+  in your mind
+* Anki can fucntion like your brain's memory maintenance tuneup
 
 ## 8.56 Mind Mapping
-8:27
+* Mind maps have a lot of benefits over notes
+  * They're visual and allow us to sketch our markers if we want to
+  * They actually show the logical interrelation between different
+    thought and ideas
+  * They're really fast much easier to read and review
+* The anchor:
+* Retrieval markers;
+* Main branches:
+* Smaller branches:
+* Leaves: details, facts
+* Strings
+* When do we use mind mapping?
+  * Computer program
+  * Text book
+  * Articles
+  * Presentations
+* How do you shape and desing your mind-maps?
+* Can mind mapping be used with other forms of memorization?
 
 ## 8.57 Memory Palaces
-9:03
+* Our brains are extremely effective at remembering where things are
+   and visualizing them
+* Memory palaces are extremely effective at helping us index events
+* Memory palaces are not used for everything
 
 ## 8.58 Number memorization systems
-7:02
+* Create detailed visual markers
+* The more ridiculous these markers are, the better it is going to be
+* The Major method
 
 ## Quiz 59: Do you know how to maintain your memories long term?
 
@@ -460,10 +487,23 @@
 ## 9.60 Misconceptions Pre-Quiz VI
 
 ## 9.61 Sleeping and learning: Why sleep is so crucial
-3:24
+* During sleep, our brain connects things into our long term memory
+* A power nap is always better for learning
+* You can improve your learning pace by taking naps
+* Get into the habit of power naps of about 20 to 22 minutes
+
+* Sleep and wake up at the same time
+* Sleep in increments of 90 minutes
+* Avoid blue/white light 3h before bed
+* Sleep in a very dark, cold room
 
 ## 9.62 The proper learning environment
-4:37
+* Stated-based learning
+  * If you learn in the same environment you exercise the information
+    in, you'll be more effective at remembering
+  * Design your study environment and conditions to match the conditions in which you'll use the information
+* Sitting is quite bad for your joints and muscles, too
+* Oxygen is a stimulant for the brain
 
 ## Quiz 63: Is your environment and lifestyle set up for learning?
 
@@ -472,17 +512,32 @@
 ## 10.64 Misconceptions Pre-Quiz VII
 
 ## 10.65 SuperLearning by video or audio
-3:34
+* YouTube's HTML5 technology
+* This isn't a time to forget your good habits
 
 ## 10.66 Tailoring the skills: Learning languages
-10:29
+* Frequency lists rank words by how much they're used, so you can focus
+  on the most important ones first
+* Use visual or sensory markers
+* Link this new and foreign combination of sounds to an existing mental
+  marker, image, feeling, or smell
+* Stop speaking English
+* Insist that you won't speek English
+* People who are embarrassed to try out their language skills never
+  improve them
+* All you have to do is get over the fear of sounding silly and start
+  speaking!
+* Our brains are really good at inferring the implied logic behind
+  grammar
 
 ## 10.67 Tailoring the skills: Never forget a face or a name
-2:56
+* Most peole don't pay attention
+* Try to make a habit of repeating the name
+* Connect that person to a visual marker of another person
 
 ## Quiz 68: Can you apply your new skills to things besides reading?
 
 ## 10.69 Thank You & Congratulations
-2:14
+> Once you stop learning, you start dying - Albert Einstein
 
 ## 10.70 BONUS: Upgrade to the SuperLearner MasterClass & Continue Your Journey!
