@@ -59,8 +59,7 @@ learning experience
 * As we've learned, preparation, priorities, and goals are important
 * Having our goals and priorities pre-arranged makes us more effective
 * But how do we rank our tasks & projects in order of importance?
-  * Interconnect each possible pair - draw an arrow showing which item
-    will help or drive which
+  * Interconnect each possible pair - draw an arrow showing which item will help or drive which
   * Count up the outgoing arrows - from each item
 * The Prority Star works for all kinds of different task types
 * It works best for related tasks that have some loose relation
@@ -71,8 +70,7 @@ learning experience
 * You can use everyday events to make your "artificial" deadlines into real ones
 
 ## Lecture 10: The Pareto Principle: our secret to being effective
-* **The Pareto Principle**: 80% of the benefits come from 20% of the
-  efforts - and vice versa
+* **The Pareto Principle**: 80% of the benefits come from 20% of the efforts - and vice versa
 * 20% of the words in a language make up 80% of conversations
 * 20% of the work of cooking makes 80% of the difference in taste
 * >= 80% of the news you read only adds 20% of new information
@@ -81,18 +79,13 @@ learning experience
 
 ## Lecture 11: The "Bad" kind of multitasking, avoiding distractions, and mediation
 * When switching tasks, it takes time and effort to get back into focus
-* It can take as long as **15 minutes** to get back into the optimal
-  state of concentration!
-* Traditional "Multitasking" causes a lack of focus, inefficiency, and
-  sub-standard work quality
-* Meditation can train us to maintain our focus, thereby bosting mental
-  performance
-* A surprising majority of very productive people practice regular
-  meditation
+* It can take as long as **15 minutes** to get back into the optimal state of concentration!
+* Traditional "Multitasking" causes a lack of focus, inefficiency, and sub-standard work quality
+* Meditation can train us to maintain our focus, thereby bosting mental performance
+* A surprising majority of very productive people practice regular meditation
 
 ## Lecture 12: Batching similiar tasks
-* Batching similar tasks allows us to "amortize" (or spread)
-  time-consuming set-up & recovery work
+* Batching similar tasks allows us to "amortize" (or spread) time-consuming set-up & recovery work
 
 ## Lecture 13: The "Good" kind of multitasking & the Buddist wheel of life
 * The Wheel of Life
@@ -104,20 +97,16 @@ learning experience
   6. Personal Growth
   7. Physical Environment
   8. Career
-* Some activities can be done together in a way that's mutually
-  productive
+* Some activities can be done together in a way that's mutually productive
 * Always try to nurture two pieces of the Wheel of Life at the same time
 
 ## Lecture 14: Planning for structured rest periods
 * Planning on breaks forces us to use a nuber of good habits
 
 ## Lecture 15: Using small chunks of wasted time effectively
-* We often waste hours in the day on small chunks of time that add
-  up - but it doesn't have to be this way
-* Often, small tasks don't get done because they are
-  distracting when there are bigger priorities to do
-* Make a list of "5-10 minutes task" to eliminate any thinking
-  or decisions in-the-moment
+* We often waste hours in the day on small chunks of time that add up - but it doesn't have to be this way
+* Often, small tasks don't get done because they are distracting when there are bigger priorities to do
+* Make a list of "5-10 minutes task" to eliminate any thinking or decisions in-the-moment
 
 ## Lecture 16: A brief note on "Flow" and focus
 * **Remember**: Time without attention is worthless
