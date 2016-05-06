@@ -122,3 +122,39 @@ learning experience
   7. Freedom from distractions
 
 ## Quiz 3: How well do we understand the theories & foundations?
+
+# Section 3 - Speeding Up & Automating Computer Work
+
+## Quiz 4: Pre-Quiz: How productive are you at the computer?
+
+## Lecture 17: Just how much time are you wasting on your computer?
+* Many of the hacks you're about to learn came from analyzing my own RescueTime logs for inefficiencies
+
+## Lecture 18: Automating meeting scheduling
+
+## Lecture 19: Text expansion - stop typing the same things over and over
+* Text expansion is espcially great for cutting back typing on a phone
+* You can use text expansion on any device for any phrase to save time
+
+## Lecture 20: Speaking is faster than typing - and clicking
+* Average Speaking Speed: 120wpm
+* Average Typing Speed: 40pm
+* Using headpohones might make it less embarassing to dictate text
+
+## Lecture 21: Using custom gestures to speed up common tasks
+
+## Lecture 22: Launchers: act without doing
+* **Huge Time Wasters**:
+  * Searching for Files
+  * Drafting Emails
+  * Resizing Images
+  * Moving Files
+  * Clicking Around!
+
+## Lecture 23: Wasting less time reading and sorting through email
+
+## Lecture 24: Automating simple, repetitive tasks effectively across the web
+
+## Lecture 25: Watching lectures, videos, and podcasts faster
+
+## Quiz 5: What did you learn from the computer tips and tricks section?
