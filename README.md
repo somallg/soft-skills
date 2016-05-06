@@ -211,3 +211,13 @@ learning experience
 * "Tell it like it is" - but in a polite and respectful way
 
 ## Quiz 11: What did we learn about Delegation, Communication, and Saying Not
+
+# Section 7 - Bonus Course & Conclusion
+
+## Lecture 35: Bonus: Upgrade to MasterClass to Continue Your Journey!
+
+## Lecture 36: Bonus: Become a SuperLearner to learn, read, and memorize faster
+
+## Lecture 37: What we've learned, conclusion, and congratulations
+* Keep learning, optimizing, hacking, and improving
+* This course is designed to help you make more time for the things that **really** matter. Like doing the things you love with the people you care about.
