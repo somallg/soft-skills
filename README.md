@@ -158,3 +158,27 @@ learning experience
 ## Lecture 25: Watching lectures, videos, and podcasts faster
 
 ## Quiz 5: What did you learn from the computer tips and tricks section?
+
+# Section 4 - Speeding Up Health & Fitness
+
+## Quiz-6: Pre-Quiz: Health and Fitness Section
+
+## Lecture 26: Getting fit in fewer hours
+
+## Lecture 27: Spend less time cooking
+* It's hugely wasteful to do all the preparation and clean up for 1 meal
+
+## Lecture 28: Sleeping less and feeling better
+* It's true, sleep **is** probably the most important thing you do every day
+* For every 90 minute sleep cycle you cut, you need a 20 minute nap
+
+* Make your bedroom as dark as posible
+* Avoid blue or white lighting at night
+* Sleep in a cold room
+* Go to sleep and wake up at consistent times every day
+* It's actually a **good** idea to have a snack before bed
+* Magnesium before bed can improve your sleep, too
+* But most importantly, drink water!
+* NEVER use a regular Snooze Alarm
+
+## Quiz 7: How well do we understand the health and fitness tips?
