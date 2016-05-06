@@ -192,3 +192,22 @@ learning experience
 ## Lecture 30: Paying bills automatically
 
 ## Quiz 9: What did we learn about monitoring our finances?
+
+# Section 6 - Delegation, Communication, & Saying No
+
+## Quiz 10: Pre-Quiz: What is your starting point when it comes to Delegation?
+
+## Lecture 31: Some things just aren't worth your time
+
+## Lecture 32: Thoughts & tips on "outsourcing"
+
+## Lecture 33: Speeding up decisions
+* Making too many decisions can cause "**ego depletion,**" which weakens our willpower & discipline
+* Most importantly: Limit the number of choices
+* Going on a "decision diet" can improve your productivity and make your more efficient elsewhere
+
+## Lecture 34: Speeding up communication
+* It's not "polite" to waste time with phoniness, it's annoying!
+* "Tell it like it is" - but in a polite and respectful way
+
+## Quiz 11: What did we learn about Delegation, Communication, and Saying Not
