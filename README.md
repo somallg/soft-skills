@@ -11,5 +11,7 @@
 # Section 2 - How To Initiate A Conversation
 
 ## Lecture 2: Starting A Conversation
+1. The beginning of a conversation is the least important
+2. Start small
 
 ## Lecture 3: How To Transition The Conversation
