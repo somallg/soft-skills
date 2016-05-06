@@ -182,3 +182,13 @@ learning experience
 * NEVER use a regular Snooze Alarm
 
 ## Quiz 7: How well do we understand the health and fitness tips?
+
+# Section 5 - Automating your finances
+
+## Quiz 8: Pre-Quiz: How effectively are we monitoring our finances?
+
+## Lecture 29: Monitoring your finances automatically
+
+## Lecture 30: Paying bills automatically
+
+## Quiz 9: What did we learn about monitoring our finances?
