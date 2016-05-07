@@ -1,4 +1,3 @@
-# soft-skills-books
 # Conversation And Communication Mastery
 
 # Section 1 - Introduction
@@ -27,3 +26,16 @@
   6. School?
 * Transition smothly?
   * Add justification (logical)
+
+# Section 3 - How To Think About Conversation
+
+## Lecture 4: Puzzle Piece
+* Show them your puzzle piece
+* Wearing social mask, making assumption, trying to guess what they like => not the road to success
+* Act like a travel guy: learn about someone because you genuinely interest in learning about them, show them your version of a story related to that topic
+
+## Lecture 5: Commonalities
+* Showing similar interest or similar understanding
+* Use a fact
+* Describe the images of the topic in your head
+* ... because and ... when
