@@ -15,3 +15,15 @@
 2. Start small
 
 ## Lecture 3: How To Transition The Conversation
+* Transition to learn more about the other person
+* Everyone favorite topic is them selves
+* It's all about THEM, and it's all on YOU
+* Simply ask questions
+  1. Work?
+  2. Fun?
+  3. Food?
+  4. Sister/brother?
+  5. Dog/cat?
+  6. School?
+* Transition smothly?
+  * Add justification (logical)
