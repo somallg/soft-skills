@@ -74,3 +74,7 @@
   2. Common or shared interest
   3. Party
   4. Enjoy talking
+
+# Section 8 - Thank You
+
+## Lecture 12: Thank You
