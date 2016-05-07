@@ -65,3 +65,12 @@
 ## Lecture 10: Body Language
 1. Mirror body language
 2. Do your match to match head's height
+
+# Section 7 - Staying In Contact
+
+## Lecture 11: How To Obtain Someones Contact Details
+* "What the best way to stay in contact?"
+  1. For networking
+  2. Common or shared interest
+  3. Party
+  4. Enjoy talking
