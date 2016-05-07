@@ -56,3 +56,12 @@
 ## Lecture 8: Confidence
 * The way you act can impact how you feel
 * Act confidence
+
+# Section 6 - The Soft Skills
+
+## Lecture 9: Social Intelligence
+* Is that a absolute No ? If not then thinks are going well
+
+## Lecture 10: Body Language
+1. Mirror body language
+2. Do your match to match head's height
