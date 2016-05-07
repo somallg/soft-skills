@@ -39,3 +39,8 @@
 * Use a fact
 * Describe the images of the topic in your head
 * ... because and ... when
+
+# Section 4 - The Rules of Conversation
+
+## Lecture 6: Conversation Rules
+1. Conversation is like a layered cake. In order to add a layer, you need to add a statement, then from there you ask a question
