@@ -44,3 +44,15 @@
 
 ## Lecture 6: Conversation Rules
 1. Conversation is like a layered cake. In order to add a layer, you need to add a statement, then from there you ask a question
+
+# Section 5 - Success
+
+## Lecture 7: Defining Success
+1. No longer care of what i say attract or push someone away
+2. All i care about is act congruently with what i wanna be
+3. Take ownership of my words
+4. Authentic
+
+## Lecture 8: Confidence
+* The way you act can impact how you feel
+* Act confidence
