@@ -107,3 +107,7 @@
 ## Lecture 14: Willpower In Action!
 
 ## Lecture 15: Coffee Break Wrap-Up (Section 3)
+* We change our habits by using motivation or willpower to "manually" change our behavior
+* Motivation isn't reliable, so it is a poor strategy for building habits
+* Willpower is reliable, but only if you don't run out of it
+* If we can overcome the five willpower drainers, we can act with remarkable consistency and find success
