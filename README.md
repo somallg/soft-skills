@@ -217,3 +217,16 @@
 * Scaling back is generally an inferior solution (with exceptions)
   * It's dangerous because of contined exposure and not addressing the root problem (eradicating the process)
   * It's somewhat beneficial for self-control practice
+
+# Section 8 - Modification & Conclusion
+> Your net worth to the world is usually determined by what remains after your bad habits are substracted from your good ones - Benjamin Franklin
+
+## Lecture 36: Modification & Conclusion
+* Start small, stay small, and get great results
+
+* You can expect good things with mini habits. This really works
+* The benefits compound beyond what you'd think
+* Let's change our brains!
+
+## Lecture 37: Final Coffee Break Wrap-Up
+* minihabits.com
