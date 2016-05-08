@@ -81,3 +81,29 @@
 
 ## Lecture 10: Coffee Break Wrap-Up (Section 2)
 * The best way to get motivation its to take action first
+
+# Section 3 - Willpower
+> Willpower is essential to accomplishment of anything worthwhile - Brian Tracy
+* Willpower works every time... until you run out of it
+
+## Lecture 11: Why Willpower Beats Motivation
+* Using willpower, you can force yourself to act regardless of feelings (Habits require this kind of consistency)
+* **If you can make your willpower last, success is guaranteed**
+
+* Making a decision in advance is smarter
+  * It separates you from the emotion of the moment
+* Willpower lets you put it on the calendar and do it
+
+## Lecture 12: The Cookie Radish Study Brought To Life!
+
+## Lecture 13: Science Reveals The Biggest Five Threats To Willpower Energy
+* 5 major willpower drainers identified
+  1. Effort: "Strenuous physical or mental exertion"
+  2. Perceived Difficulty: how difficult you **believe** your objective is
+  3. Subjective Fatigue: how fatigued you **think** you are
+  4. Negative Affect: the experience of negative feelings
+  5. Low Blood Glucose: the body's primary energy source; fuel
+
+## Lecture 14: Willpower In Action!
+
+## Lecture 15: Coffee Break Wrap-Up (Section 3)
