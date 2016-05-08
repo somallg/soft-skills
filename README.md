@@ -62,3 +62,36 @@
   * Change happens all the time. Be vigilant in observing what is happening on the outside
   * Learn to reflect and take time off to notice the changes happening in our lives. Don't be too internally focused and consumed by tasks and to-do lists
   * Watch out when you become defensive and reactionary. Great leaders are usually ones who have humbled themselves to believe that learning and growth never ends
+
+# Section 3 - Leadership in the Workplace
+
+## Lecture 9: Reverse Mentoring?
+* Be open to learn knew things
+
+## Lecture 10: How to succeed without straight A's ? How important is work experience?
+* Job experience
+  * Strong business sense
+  * Long-term career growth
+
+## Lecture 11: Kill or Collaborate?
+* Wikipedia
+
+## Lecture 12: How important is a "Purpose"?
+* Purpose: company stops becoming only a means to earn a salary but means to fulfill a **legacy**
+* Employees engaged with purpose stay for what they **give**
+
+## Lessons 13: What do you teach children to make them incredible leaders?
+* Leadership lessons learnt during childhood, help establish first seeds of leadership ambition
+
+## Lecture 14: What is "Thin Slicing" and why it is important
+* Great decision making is key trick of great leaders
+* Become better at making quick fast instinctive judgements through practice and experience
+* Research has long asserted that first impressions are formed within **two minutes**. However, **thin-slicing** experts believe that it takes **less than 3 seconds** to do so
+
+## Lecture 15: How to grow a business with "Trust"?
+
+## Lecture 16: What happens when you don't listen? Does it affect your career?
+
+## Lecture 17: CEO Disease
+
+## Lecture 18: Is being different bad?
