@@ -189,3 +189,31 @@
 8. Bonus Reps > Bigger requirement
 
 ## Lecture 30: Coffee Break Wrap-Up (Section 6)
+
+# Section 7 - Shrink Bad Habits
+> Correcting bad habits cannot be done by forbidding or punishment - Rober Baden-Powell
+* You can use mini habits to "deflect" bad habits
+
+## Lecture 31: The Temptation Game!
+* Curiosity is a relatively weak form of temptation
+* The hardest temptations are chemically-based
+* It's technically impossible to completely remove a bad habit (you can only weaken it)
+* One-on-one resistance is futile!
+
+## Lecture 32: Understanding Good/Bad Habits
+
+## Lecture 33: The Anotomy Of A Bad Habit & Our First Line Of Defense
+1. The trigger: context (internal thought, external stimulus)
+2. The urge: brain desires bad habit
+3. The action: you do it
+4. The reward: you're rewareded for doing it
+
+## Lecture 34: Rerouting - The Second Line Of Defense
+* Quickly take one small step in a different direction than your undesired behavior(s) when tempted
+* You need **fast speed** and **small size**
+
+## Lecture 35: Should You Attempt To Quit "Cold Turkey"?
+* Bad habits are... poisonous to your well-being!
+* Scaling back is generally an inferior solution (with exceptions)
+  * It's dangerous because of contined exposure and not addressing the root problem (eradicating the process)
+  * It's somewhat beneficial for self-control practice
