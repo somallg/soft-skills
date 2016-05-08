@@ -58,3 +58,26 @@
 ## Lecture 5: Science Break: The Damaged Basal Ganglia Study
 
 ## Lecture 6: Coffee Break Wrap-Up (Section 1)
+
+# Section 2 - Motivation
+> I don't wait for moods. You accomplish nothing if you do that. Your mind must know it has got to get down to work. - Perl S. Buck
+* If motivation is your starting strategy, you will fail.
+
+## Lecture 7: Motivation's Popularity, The Two Definitions, & The Famous Pumpkin Cat
+* Motivation's Two Definitions
+  1. The **reason or reasons** one has for acting or behaving in a particular way
+    * Based on **values**
+    * Reliable and **stable**
+  2. The general desire or **willingness** of someone to do something **in the moment**
+    * Based on **feelings**
+    * Fickle and **unpredictable**
+
+## Lecture 8: Motivation Science Break
+
+## Lecture 9: Motivation In Action!
+* "Feeling bombs" kill it
+* Waiting for it is ineffective
+* It will decrease over time
+
+## Lecture 10: Coffee Break Wrap-Up (Section 2)
+* The best way to get motivation its to take action first
