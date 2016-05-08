@@ -175,3 +175,17 @@
 4. **No concern/worry**: you don't worry about doing it, because you know you will
 5. **Normalization**: habits are as normal and expected as waking up in the morning
 6. **Boring**: things that are "the norm" are less exciting (but the results can be exciting)
+
+# Section 6 - Eight Rules
+
+## Lecture 29: The Rules
+1. Never, EVER cheat
+2. Be happy with ALL progress
+3. Reward yourself often
+4. Stay level-headed
+5. Resistance? Go small!
+6. Remind yourself how *easy* this is!
+7. NO step is too small
+8. Bonus Reps > Bigger requirement
+
+## Lecture 30: Coffee Break Wrap-Up (Section 6)
