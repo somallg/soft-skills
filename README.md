@@ -12,7 +12,7 @@
   1. Studies Brought To Life
   2. .... In Action (Motivation, Willpower, etc.)
   3. Science Break
-  4. Coffe Break Wrap-Up
+  4. Coffee Break Wrap-Up
 
 ## Lecture 2: What's A Mini Habit?
 * Very small positive behavior that you force your self to do everyday
@@ -111,3 +111,31 @@
 * Motivation isn't reliable, so it is a poor strategy for building habits
 * Willpower is reliable, but only if you don't run out of it
 * If we can overcome the five willpower drainers, we can act with remarkable consistency and find success
+
+# Section 4 - Mini Habits Strategy
+> Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win - Sun Tzu, The Art of War
+* Mini habits make it possible to overcome resistance, take action every day, and **never** burn out
+
+## Lecture 16: Motivation & Willpower Are Friends? Plus Mini Habits vs. Traditional Habits
+
+## Lecture 17: The Two Moments Of Resistance
+* Taking action is **most inspiring**
+* Motivation is highly **reactive**
+* After your minimum, you'll have **more fuel** (motivation and willpower)
+
+* The Two Moments Of Resistance
+  1. Resistance Before Action
+  2. Resistance To Do More
+
+## Lecture 18: Why Mini Habits Work (Part 1)
+* Compete With Existing Habits
+* Small Steps & Willpower = Win
+* Increate Your Self-Efficacy: belief in your ability to influence an outcome
+* Greater Autonomy: independence or freedom, as of the will or one's actions
+* Destroy Fear, Intimidation, & Doubt
+
+## Lecture 19: Why Mini Habits Work (Part 2)
+* Successfully forming good habits is the only way to get your conscious and subconscious to agree with each other
+* If you can do it, they will get along, which means a less stressful and more successful life
+
+## Lecture 20: Coffee Break Wrap-Up (Section 4)
