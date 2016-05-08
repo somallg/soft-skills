@@ -139,3 +139,39 @@
 * If you can do it, they will get along, which means a less stressful and more successful life
 
 ## Lecture 20: Coffee Break Wrap-Up (Section 4)
+
+# Section 5 - Eight Small Steps To BIG Change
+> It's not what we do once in a while that shapes our lives. It's what we do consistently - Anthony Robbins
+* This is the application of everything discussed - how to create your own mini habits!
+
+## Lecture 21: Step One: Choose Your Mini Habits & Plan
+* How Many Mini Habits Should You Pursue At Once?
+  * Maximum: 4
+  * Ideal for most: 2-3
+
+## Lecture 22: Step Two: Use The "Why Drill"
+
+## Lecture 23: Step Three: Choose Your Habit Cues
+* What will trigger you to take action?
+
+## Lecture 24: Step Four: Create A Reward Plan
+* How Rewards Help Us
+  * **Reason to act**: rewards of better health, attractive body, mental agility, and more!
+  * **Reinforce action**: a chocolate bar after every workout makes us like workouts more long term
+  * **Resotre willpower**: rewards hlep us resist temptation, force positive action, and keep self-control
+
+## Lecture 25: Step Five: Track Your Progress
+
+## Lecture 26: Step Six: Think Small
+
+## Lecture 27: Step Seven: Drop High Expectations
+* Success comes when your goal is small on paper and mentally
+* Consistency, not quantity is most important
+
+## Lecture 28: Step Eight: Look For Signs Of Habit (Careful!)
+1. **No resistance**: it's easier to do than not to do
+2. **Identity**: you identify with the behavior; it describes you
+3. **Mindless action**: you just do the behavior without thinking much about it
+4. **No concern/worry**: you don't worry about doing it, because you know you will
+5. **Normalization**: habits are as normal and expected as waking up in the morning
+6. **Boring**: things that are "the norm" are less exciting (but the results can be exciting)
