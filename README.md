@@ -114,3 +114,13 @@
 ## Lecture 17: CEO Disease
 
 ## Lecture 18: Is being different bad?
+
+# Section 4 - Becoming a Better Leader
+
+## Lecture 19: What happens when there is no structure?
+
+## Lecture 20: Do you have your eyes set on your success?
+
+## Lecture 21: How to motivate someone?
+
+## Lecture 22: How to sharpen your employees's focus?
