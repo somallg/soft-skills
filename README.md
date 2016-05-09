@@ -89,8 +89,27 @@
 * Research has long asserted that first impressions are formed within **two minutes**. However, **thin-slicing** experts believe that it takes **less than 3 seconds** to do so
 
 ## Lecture 15: How to grow a business with "Trust"?
+* Trust relationsips are vital for success
+* Trust is built on a daily basis through **ability**, **honesty** & **sincerity**
+
+> To be trusted is a **far greater compliment** than to be loved
 
 ## Lecture 16: What happens when you don't listen? Does it affect your career?
+* Listening helps
+  1. Discover and detect conflect or miscommunication
+  2. Motivate employees and win their loyalty
+  3. Nurture innovative solutions
+  4. Gather and evaluate ideas
+  5. Generate solutions and results
+
+* How to be a better listener?
+  1. Fight the urge to interrupt
+  2. Motivate employees and win their loyalty
+  3. Show interest in the conversation
+  4. React with facial expressions and correct body posture
+  5. Avoid distractions
+  6. Wait until the person finshes speaking before  feedback
+  7. Ask questions to show your interest
 
 ## Lecture 17: CEO Disease
 
