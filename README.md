@@ -1,2 +1,2 @@
-# soft-skills-books
-Soft skills books that i have read
+# soft-skills
+* Soft skills for IT pros
