@@ -128,6 +128,8 @@
   * Output Arguments
 
 ## 3.8 Command Query Separation
+* Functions should either do something or answer something, but not
+  both
 
 ## 3.9 Prefer Exceptions to Returning Error Codes
   * Extract Try/Catch Blocks
@@ -149,6 +151,9 @@
 # Chapter 4: Comments
 
 ## 4.1 Comments Do Not Make Up for Bad Code
+* Comments are always failures
+* We must have them because we cannot always figure out how to express
+  ourselves without them, but their use is not a cause for celebration
 
 ## 4.2 Explain Yourself in Code
 
