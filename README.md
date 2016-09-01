@@ -3,7 +3,7 @@
 
 > Đọc sách là được trò chuyện với những người thành đạt nhất của những thế kỷ đã qua - Decartes
 
-## Phần 1. Các phương diện đọc sách
+# Phần 1. Các phương diện đọc sách
 
 ## 1. Đọc sách và nghệ thuật đọc sách
 * Đọc sách tích cực
@@ -63,13 +63,13 @@
 
 * Từ nhiều quy tắc đến một thói quen
 
-## Phần 2. Cấp độ đọc thứ 3 - Đọc phân tích
+# Phần 2. Cấp độ đọc thứ 3 - Đọc phân tích
 
-6. Phân lọai một cuốn sách
+## 6. Phân lọai một cuốn sách
 * Tầm quan trọng của việc phân loại sách
   * Quy tắc 1: Bạn phải biết càng sớm càng tốt loại sách mình đang đọc là gì, tốt nhất là trước khi bạn bắt đầu đọc cuốn sách đó
 
-7. Chụp X-quang một cuốn sách
+## 7. Chụp X-quang một cuốn sách
 * Quy tắc 2: Trình bày sự thống nhất của toàn bộ nội dung cuốn sách trong một câu đơn hoặc một đoạn văn ngắn
 * Quy tắc 3: Trình bày những phần chính của cuốn sách và cách sắp xếp các phần theo thứ tự thống nhất thành một chỉnh thể
 
@@ -81,23 +81,46 @@
 
 * Quy tắc 4: Phát hiện ra những vấn đề của tác giả
 
-* Giai đoạn đầu của đọc phân tích
+* **Giai đoạn đầu của đọc phân tích**
   1. Phân loại sách theo thể loại và chủ đề
   2. Diễn dạt nội dung chính của toàn bộ cuốn sách một cách ngắn gọn nhất
   3. Liệt kê những phần chính theo thứ tự và mối quan hệ, lập đề cương cho những phần này nếu nhưg bạn đã lập đề cương cho toàn bộ tác phẩm
   4. Xác định một hoặc nhiều vấn đề mà tác giả đang tìm cách giải quyết
 
-8. Thống nhất các thuật ngữ với tác giả
+## 8. Thống nhất các thuật ngữ với tác giả
+* Quy tắc 5: Tìm các từ quan trọng và qua đó đi đến thống nhất thuật ngữ với tác giả
 
-9. Xác định thông điệp của tác giả
+## 9. Xác định thông điệp của tác giả
+* Quy tắc 6: Đánh dấu những câu quan trọng nhất trong một cuốn sách và tìm ra các nhận định ẩn chứa trong đó
+* Quy tắc 7: Tìm ra các lập luận cơ bản trong một cuốn sách dựa trên mối liên hệ giữa các câu
+* Quy tắc 8: Tìm ra hướng giải quyết của tác giả
 
-10. Đưa ra những lời phê bình hợp lý
+* **Giai đoạn 2 của quá trình đọc phân tích**
+  1. Thống nhất thuật ngữ với tác giả bằng cách phân tích các từ khóa
+  2. Nắm bắt những nhận định chủ chốt của tác giả trên cơ sở xem xét những câu hỏi quan trọng
+  3. Xác định lập luận của tác giả bằng cách tìm ra chúng hoặc xây dựng lập luận từ các chuỗi câu
+  4. Xác định các vấn đề tác giả đã giải quyết, các vấn đề chưa được giải quyết. Đối với những vấn đề chưa được giải quyết, tìm hiểu xem tác giả có nhận thức được thất bại của mình hay không
 
-11. Đồng ý hay bất đồng với tác giả
+## 10. Đưa ra những lời phê bình hợp lý
+* Quy tắc 9: Bạn cần nói chắc chắn rằng "Tôi hiểu" trước khi nói "Tôi tán thành" hoặc "Tôi phản đối" hay "Tôi tạm thời chưa đưa ra nhận xét"
+* Quy tắc 10: Khi bạn phản đối, hãy phản đối một cách hợp lý, tránh đấu khẩu hoặc cãi vã
+* Quy tắc 11: Tôn trọng sự khác nhau giữa kiến thức và quan điểm các nhân bằng cách đưa ra những lý do giải thích cho đánh giá phê bình của bạn
 
-12. Những phiên tiện trợ giúp việc đọc
+## 11. Đồng ý hay bất đồng với tác giả
+* **Giai đoạn 3 của quá trình đọc phân tích - hay các quy tắc phê bình một cuốn sách theo khía cạnh truyền đạt kiến thức**
+  I. Những quy ước chung về quy tắc xã giao
+    1. Chỉ bắt đầu phê bình khi bạn đã hoàn thành quá trình lập dàn ý và hiểu được nội dung của cuốn sách
+    2. Không nên thể hiện sự bất đồng theo kiểu lý sự hoặc cà khịA
+    3. Hãy thể hiện rằng bạn nhận thức được sự khác nhau giữa kiến thức thật và ý kiến cá nhân bằng cách đưa ra những lập luận tốt cho mọ đánh giá phê bình cảu bạn
+  II. Các tiêu chí đặc biệt về các điểm phê phán
+    1. Chứng minh khía cạnh tác giả không cung cấp đủ thông tin
+    2. Chứng minh khía cạnh tác giả cung cấp thông tin sai
+    3. Chứng minh khía cạnh tác giả thiếu logic
+    4. Chỉ ra khía cạnh phân tích và giải thích chưa hoàn chỉnh của tác giả
 
-## Phần 3. Tiếp cận những chủ đề sách khác nhau
+## 12. Những phiên tiện trợ giúp việc đọc
+
+# Phần 3. Tiếp cận những chủ đề sách khác nhau
 
 13. Cách đọc sách thực hành
 
@@ -113,7 +136,7 @@
 
 19. Cách đọc sách khoa học xã hội
 
-## Phần 4. Múc đích cao nhất của việc đọc sách
+# Phần 4. Múc đích cao nhất của việc đọc sách
 
 20. Cấp độ đọc thứ 4 - Đọc đồng chủ đề
 
