@@ -42,10 +42,10 @@
 
 ## 5. Cách trở thành một đọc giả yêu cầu cao
 * Bản chất của việc đọc tích cực: bốn câu hỏi cơ bản đọc giả phải hỏi
-  1. Tổng quan cuốn sách nói về điều gì? Tìm chủ đề chính của cuốn sách, và phương pháp tác giả phát triển chủ đề này một cách nhất quán bằng việc phân chia nó thành những chủ đề phụ quan trọng
-  2. Những gì được đề cập chi tiết và đề cập như thế nào? Tìm ra các ý chính, những điều khẳng định, những luận cứ tạo nên thông điệp đặc biệt của tác giả
-  3. Cuốn sách có đúng không, đúng một phần hay toàn bộ? Phải biết tác giả nói gì. Tự mình quyết định xem đúng hay sai
-  4. Ý nghĩa của cuốn sách? Ý nghĩa của thông tin mà cuốn sách mang lại? Tại sao tác giả cho rằng cần phải biết những điều này?
+  1. **Tổng quan cuốn sách nói về điều gì?** Tìm chủ đề chính của cuốn sách, và phương pháp tác giả phát triển chủ đề này một cách nhất quán bằng việc phân chia nó thành những chủ đề phụ quan trọng
+  2. **Những gì được đề cập chi tiết và đề cập như thế nào?** Tìm ra các ý chính, những điều khẳng định, những luận cứ tạo nên thông điệp đặc biệt của tác giả
+  3. **Cuốn sách có đúng không, đúng một phần hay toàn bộ?** Phải biết tác giả nói gì. Tự mình quyết định xem đúng hay sai
+  4. **Ý nghĩa của cuốn sách?** Ý nghĩa của thông tin mà cuốn sách mang lại? Tại sao tác giả cho rằng cần phải biết những điều này?
 
 * Làm thế nào để thực sự sở hữu một cuốn sách?
 * Cách đánh dấu sách hiệu quả:
