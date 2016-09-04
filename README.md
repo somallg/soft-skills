@@ -42,7 +42,7 @@
 
 ## 5. Cách trở thành một đọc giả yêu cầu cao
 * Bản chất của việc đọc tích cực: bốn câu hỏi cơ bản đọc giả phải hỏi
-  1. Tổng quan cuốn sách nói về điều gì? Tìm chủ đề chính của cuốn sách, và phương pháp tác giả phát triên chủ đề này một cách nhất quán bằng việc phân chia nó thành những chủ đề phụ quan trọng
+  1. Tổng quan cuốn sách nói về điều gì? Tìm chủ đề chính của cuốn sách, và phương pháp tác giả phát triển chủ đề này một cách nhất quán bằng việc phân chia nó thành những chủ đề phụ quan trọng
   2. Những gì được đề cập chi tiết và đề cập như thế nào? Tìm ra các ý chính, những điều khẳng định, những luận cứ tạo nên thông điệp đặc biệt của tác giả
   3. Cuốn sách có đúng không, đúng một phần hay toàn bộ? Phải biết tác giả nói gì. Tự mình quyết định xem đúng hay sai
   4. Ý nghĩa của cuốn sách? Ý nghĩa của thông tin mà cuốn sách mang lại? Tại sao tác giả cho rằng cần phải biết những điều này?
@@ -110,8 +110,8 @@
 * **Giai đoạn 3 của quá trình đọc phân tích - hay các quy tắc phê bình một cuốn sách theo khía cạnh truyền đạt kiến thức**
   I. Những quy ước chung về quy tắc xã giao
     1. Chỉ bắt đầu phê bình khi bạn đã hoàn thành quá trình lập dàn ý và hiểu được nội dung của cuốn sách
-    2. Không nên thể hiện sự bất đồng theo kiểu lý sự hoặc cà khịA
-    3. Hãy thể hiện rằng bạn nhận thức được sự khác nhau giữa kiến thức thật và ý kiến cá nhân bằng cách đưa ra những lập luận tốt cho mọ đánh giá phê bình cảu bạn
+    2. Không nên thể hiện sự bất đồng theo kiểu lý sự hoặc cà khịa
+    3. Hãy thể hiện rằng bạn nhận thức được sự khác nhau giữa kiến thức thật và ý kiến cá nhân bằng cách đưa ra những lập luận tốt cho mọ đánh giá phê bình của bạn
   II. Các tiêu chí đặc biệt về các điểm phê phán
     1. Chứng minh khía cạnh tác giả không cung cấp đủ thông tin
     2. Chứng minh khía cạnh tác giả cung cấp thông tin sai
@@ -122,24 +122,35 @@
 
 # Phần 3. Tiếp cận những chủ đề sách khác nhau
 
-13. Cách đọc sách thực hành
+## 13. Cách đọc sách thực hành
+1. Cuốn sách viết về cái gì?
+2. Những gì được đề cập chi tiết trong sách?
+3. Cuốn sách có đúng không?
+4. Ý nghĩa của cuốn sách là gì?
 
-14. Cách đọc tác phẩm văn học giả tưởng
+## 14. Cách đọc tác phẩm văn học giả tưởng
 
-15. Những gợi ý khi đọc truyện, kịch và thơ
+## 15. Những gợi ý khi đọc truyện, kịch và thơ
 
-16. Cách đọc sách lịch sự
+## 16. Cách đọc sách lịch sử
 
-17. Cách đọc sách khoa học và sách toán
+## 17. Cách đọc sách khoa học và sách toán
 
-18. Cách đọc sách triết học
+## 18. Cách đọc sách triết học
 
-19. Cách đọc sách khoa học xã hội
+## 19. Cách đọc sách khoa học xã hội
 
 # Phần 4. Múc đích cao nhất của việc đọc sách
 
-20. Cấp độ đọc thứ 4 - Đọc đồng chủ đề
+## 20. Cấp độ đọc thứ 4 - Đọc đồng chủ đề
+* I. Chuẩn bị cho việc đọc đồng chủ đề
+  1. Tạo một thư mục tạm thời những sách cần đọc về chủ đề
+  2. Khảo sát tất cả các cuốn sách trong thử mục để tìm ra cuốn nào viết về chủ đề cần nghiên cứu, đồng thời có khái niệm rõ hơn về chủ đề đó
+* II. Đọc các cuốn sách trong thư mục đã tạo
+  1. Khảo sát các cuốn sách liên quan đến chủ để để tìm ra các phần bàn đến nó trực tiếp nhất
+  2. Xây dựng một hệ thống thuật ngữ trung tính về chủ để mà ta cho rằng tất cả hoặc đa số tác giả đều sử dụng đến chúng, dù họ có thật sự dùng hay không
+  3. Tạo lập một loạt các nhận định trung tính cho tất cả các tác giả bằng cách đặt ra một loạt câu hỏi có thể tìm thấy câu trả lời trong các cuốn sách, dù câu hỏi đó có được trả lời rõ ràng hay không
+  4. Xác định các vấn đề chính và phụ bằng cách sắp xếp các câu trả lời đối ngược nhau của các tác giả vào các câu hỏi về một mặt của vấn đề nay hay vấn đề kia
+  5. Phân tích cuộc thảo luận bằng cách sắp xếp các câu hỏi và vấn đề theo cách làm sáng tỏ nhất chủ đề
 
-21. Đọc sách và sự phát triển trí tuệ
-
-
+# 21. Đọc sách và sự phát triển trí tuệ
